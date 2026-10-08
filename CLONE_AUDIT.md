@@ -1,0 +1,250 @@
+# Clone Audit
+
+- Project: C:\Users\Administrator\AppData\Roaming\Open Design\namespaces\release-stable-win\data\projects\5be6b85e-e111-4355-8215-eee9c07c18a8
+- Scanned files: 50
+- Findings: 228
+
+## 保真度硬伤（字体 / 图片 / 颜色）
+- 未发现
+
+## 追踪脚本 / 统计像素
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:157 · Google Tag Manager · `googletagmanager`
+- bundle\app.js:37 · Google Analytics / gtag · `Ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `Ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `Ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `Ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `ga(`
+- bundle\app.js:40 · Google Analytics / gtag · `ga(`
+
+## 原站品牌残留
+- .file-versions\0eb547304658805aad788d32\0001-11e863e7-9a29-4ca4-a16a-c9b8e0ff5320.html:8 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- .file-versions\0eb547304658805aad788d32\0001-11e863e7-9a29-4ca4-a16a-c9b8e0ff5320.html:10 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:40 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:49 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:59 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:63 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:63 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:63 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:63 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:63 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:67 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:67 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:69 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:69 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- bundle\app.js:73 · brand residue: Peken Banyumasan · `PEKEN BANYUMASAN`
+- index.html:8 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- index.html:10 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- package.json:6 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\assets\fonts\fonts.css:2 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\components\Footer.jsx:162 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\components\Lightboxes.jsx:172 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\components\Nav.jsx:41 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\components\Nav.jsx:46 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:3 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:38 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:48 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:63 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:173 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:180 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:187 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:201 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:240 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:247 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:316 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:320 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:320 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:462 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:528 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:607 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\data\content.js:790 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\index.html:8 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\index.html:10 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\lib\utils.js:112 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\pages\About.jsx:457 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\pages\Gallery.jsx:166 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\pages\Home.jsx:369 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\pages\Home.jsx:389 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\pages\ProgramDetail.jsx:161 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- src\pages\PublicProfile.jsx:309 · brand residue: Peken Banyumasan · `PEKEN BANYUMASAN`
+- src\styles\global.css:2 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+- vite.config.js:7 · brand residue: Peken Banyumasan · `Peken Banyumasan`
+
+## 日文残留
+- 未发现
+
+## TODO / 占位内容
+- .od-skills\web-clone-ff0eeb8cda\references\deliverables.md:137 · TODO / placeholder content · `TODO`
+- .od-skills\web-clone-ff0eeb8cda\references\design-dna.md:41 · TODO / placeholder content · `TODO`
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:267 · TODO / placeholder content · `TODO`
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:282 · TODO / placeholder content · `TODO`
+
+## 外部依赖 / 外链风险
+- .od-skills\web-clone-ff0eeb8cda\references\design-dna.md:7 · external URL · `https://github.com/zanwei/design-dna`
+- .od-skills\web-clone-ff0eeb8cda\references\effect-extraction.md:6 · external URL · `https://github.com/lixiaolin94/skills`
+- .od-skills\web-clone-ff0eeb8cda\references\marbles-case.md:3 · external URL · `https://chiuhans111.github.io/marbles/`
+- .od-skills\web-clone-ff0eeb8cda\references\static-mirror.md:38 · external URL · `https://use.typekit.net/`
+- .od-skills\web-clone-ff0eeb8cda\references\static-mirror.md:49 · external URL · `https://use.typekit.net/`
+- .od-skills\web-clone-ff0eeb8cda\references\static-mirror.md:51 · external URL · `https://use\.typekit\.net/`
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:64 · external URL · `https://raw.githubusercontent.com/`
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:173 · external URL · `http://127.0.0.1:`
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:178 · external URL · `http://127.0.0.1:`
+- .od-skills\web-clone-ff0eeb8cda\SKILL.md:185 · external URL · `http://127.0.0.1:`
+- bundle\app.js:33 · external URL · `https://reactjs.org/docs/error-decoder.html?invariant=`
+- bundle\app.js:40 · external URL · `https://kolabolator-pekenbanyumasan.pages.dev`
+- bundle\app.js:40 · external URL · `https://artisan-pekenbanyumasan.pages.dev`
+- bundle\app.js:63 · external URL · `https://maps.google.com/?q=Taman+Sari+Kecamatan+Banyumas+Kabupaten+Banyumas+Jawa+Tengah`
+- bundle\app.js:63 · external URL · `https://maps.google.com/?q=Trans+Banyumas+Koridor+4`
+- bundle\app.js:73 · external URL · `https://${n}'`
+- package-lock.json:21 · external URL · `https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.29.7.tgz`
+- package-lock.json:36 · external URL · `https://registry.npmjs.org/@babel/compat-data/-/compat-data-7.29.7.tgz`
+- package-lock.json:46 · external URL · `https://registry.npmjs.org/@babel/core/-/core-7.29.7.tgz`
+- package-lock.json:72 · external URL · `https://opencollective.com/babel`
+- package-lock.json:77 · external URL · `https://registry.npmjs.org/@babel/generator/-/generator-7.29.8.tgz`
+- package-lock.json:94 · external URL · `https://registry.npmjs.org/@babel/helper-compilation-targets/-/helper-compilation-targets-7.29.7.tgz`
+- package-lock.json:111 · external URL · `https://registry.npmjs.org/@babel/helper-globals/-/helper-globals-7.29.7.tgz`
+- package-lock.json:121 · external URL · `https://registry.npmjs.org/@babel/helper-module-imports/-/helper-module-imports-7.29.7.tgz`
+- package-lock.json:135 · external URL · `https://registry.npmjs.org/@babel/helper-module-transforms/-/helper-module-transforms-7.29.7.tgz`
+- package-lock.json:153 · external URL · `https://registry.npmjs.org/@babel/helper-plugin-utils/-/helper-plugin-utils-7.29.7.tgz`
+- package-lock.json:163 · external URL · `https://registry.npmjs.org/@babel/helper-string-parser/-/helper-string-parser-7.29.7.tgz`
+- package-lock.json:173 · external URL · `https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.29.7.tgz`
+- package-lock.json:183 · external URL · `https://registry.npmjs.org/@babel/helper-validator-option/-/helper-validator-option-7.29.7.tgz`
+- package-lock.json:193 · external URL · `https://registry.npmjs.org/@babel/helpers/-/helpers-7.29.10.tgz`
+- package-lock.json:207 · external URL · `https://registry.npmjs.org/@babel/parser/-/parser-7.29.9.tgz`
+- package-lock.json:223 · external URL · `https://registry.npmjs.org/@babel/plugin-transform-react-jsx-self/-/plugin-transform-react-jsx-self-7.29.7.tgz`
+- package-lock.json:239 · external URL · `https://registry.npmjs.org/@babel/plugin-transform-react-jsx-source/-/plugin-transform-react-jsx-source-7.29.7.tgz`
+- package-lock.json:255 · external URL · `https://registry.npmjs.org/@babel/template/-/template-7.29.7.tgz`
+- package-lock.json:270 · external URL · `https://registry.npmjs.org/@babel/traverse/-/traverse-7.29.10.tgz`
+- package-lock.json:289 · external URL · `https://registry.npmjs.org/@babel/types/-/types-7.29.8.tgz`
+- package-lock.json:303 · external URL · `https://registry.npmjs.org/@esbuild/aix-ppc64/-/aix-ppc64-0.21.5.tgz`
+- package-lock.json:320 · external URL · `https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.21.5.tgz`
+- package-lock.json:337 · external URL · `https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.21.5.tgz`
+- package-lock.json:354 · external URL · `https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.21.5.tgz`
+- package-lock.json:371 · external URL · `https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.21.5.tgz`
+- package-lock.json:388 · external URL · `https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.21.5.tgz`
+- package-lock.json:405 · external URL · `https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.21.5.tgz`
+- package-lock.json:422 · external URL · `https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.21.5.tgz`
+- package-lock.json:439 · external URL · `https://registry.npmjs.org/@esbuild/linux-arm/-/linux-arm-0.21.5.tgz`
+- package-lock.json:456 · external URL · `https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.21.5.tgz`
+- package-lock.json:473 · external URL · `https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.21.5.tgz`
+- package-lock.json:490 · external URL · `https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.21.5.tgz`
+- package-lock.json:507 · external URL · `https://registry.npmjs.org/@esbuild/linux-mips64el/-/linux-mips64el-0.21.5.tgz`
+- package-lock.json:524 · external URL · `https://registry.npmjs.org/@esbuild/linux-ppc64/-/linux-ppc64-0.21.5.tgz`
+- package-lock.json:541 · external URL · `https://registry.npmjs.org/@esbuild/linux-riscv64/-/linux-riscv64-0.21.5.tgz`
+- package-lock.json:558 · external URL · `https://registry.npmjs.org/@esbuild/linux-s390x/-/linux-s390x-0.21.5.tgz`
+- package-lock.json:575 · external URL · `https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.21.5.tgz`
+- package-lock.json:592 · external URL · `https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.21.5.tgz`
+- package-lock.json:609 · external URL · `https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.21.5.tgz`
+- package-lock.json:626 · external URL · `https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.21.5.tgz`
+- package-lock.json:643 · external URL · `https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.21.5.tgz`
+- package-lock.json:660 · external URL · `https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.21.5.tgz`
+- package-lock.json:677 · external URL · `https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.21.5.tgz`
+- package-lock.json:694 · external URL · `https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz`
+- package-lock.json:705 · external URL · `https://registry.npmjs.org/@jridgewell/remapping/-/remapping-2.3.5.tgz`
+- package-lock.json:716 · external URL · `https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.2.tgz`
+- package-lock.json:726 · external URL · `https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.6.0.tgz`
+- package-lock.json:733 · external URL · `https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.31.tgz`
+- package-lock.json:744 · external URL · `https://registry.npmjs.org/@napi-rs/lzma-linux-x64-gnu/-/lzma-linux-x64-gnu-1.5.1.tgz`
+- package-lock.json:764 · external URL · `https://registry.npmjs.org/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.27.tgz`
+- package-lock.json:771 · external URL · `https://registry.npmjs.org/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.64.2.tgz`
+- package-lock.json:785 · external URL · `https://registry.npmjs.org/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.64.2.tgz`
+- package-lock.json:799 · external URL · `https://registry.npmjs.org/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.64.2.tgz`
+- package-lock.json:813 · external URL · `https://registry.npmjs.org/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.64.2.tgz`
+- package-lock.json:827 · external URL · `https://registry.npmjs.org/@rollup/rollup-freebsd-arm64/-/rollup-freebsd-arm64-4.64.2.tgz`
+- package-lock.json:841 · external URL · `https://registry.npmjs.org/@rollup/rollup-freebsd-x64/-/rollup-freebsd-x64-4.64.2.tgz`
+- package-lock.json:855 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-arm-gnueabihf/-/rollup-linux-arm-gnueabihf-4.64.2.tgz`
+- package-lock.json:872 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-arm-musleabihf/-/rollup-linux-arm-musleabihf-4.64.2.tgz`
+- package-lock.json:889 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-arm64-gnu/-/rollup-linux-arm64-gnu-4.64.2.tgz`
+- package-lock.json:906 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-arm64-musl/-/rollup-linux-arm64-musl-4.64.2.tgz`
+- package-lock.json:923 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-loong64-gnu/-/rollup-linux-loong64-gnu-4.64.2.tgz`
+- package-lock.json:940 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-loong64-musl/-/rollup-linux-loong64-musl-4.64.2.tgz`
+- package-lock.json:957 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-ppc64-gnu/-/rollup-linux-ppc64-gnu-4.64.2.tgz`
+- package-lock.json:974 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-ppc64-musl/-/rollup-linux-ppc64-musl-4.64.2.tgz`
+- package-lock.json:991 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-riscv64-gnu/-/rollup-linux-riscv64-gnu-4.64.2.tgz`
+- package-lock.json:1008 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-riscv64-musl/-/rollup-linux-riscv64-musl-4.64.2.tgz`
+- package-lock.json:1025 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-s390x-gnu/-/rollup-linux-s390x-gnu-4.64.2.tgz`
+- package-lock.json:1042 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.64.2.tgz`
+- package-lock.json:1059 · external URL · `https://registry.npmjs.org/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.64.2.tgz`
+- package-lock.json:1076 · external URL · `https://registry.npmjs.org/@rollup/rollup-openbsd-x64/-/rollup-openbsd-x64-4.64.2.tgz`
+- package-lock.json:1090 · external URL · `https://registry.npmjs.org/@rollup/rollup-openharmony-arm64/-/rollup-openharmony-arm64-4.64.2.tgz`
+- package-lock.json:1104 · external URL · `https://registry.npmjs.org/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.64.2.tgz`
+- package-lock.json:1118 · external URL · `https://registry.npmjs.org/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.64.2.tgz`
+- package-lock.json:1132 · external URL · `https://registry.npmjs.org/@rollup/rollup-win32-x64-gnu/-/rollup-win32-x64-gnu-4.64.2.tgz`
+- package-lock.json:1146 · external URL · `https://registry.npmjs.org/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.64.2.tgz`
+- package-lock.json:1160 · external URL · `https://registry.npmjs.org/@types/babel__core/-/babel__core-7.20.5.tgz`
+- package-lock.json:1174 · external URL · `https://registry.npmjs.org/@types/babel__generator/-/babel__generator-7.27.0.tgz`
+- package-lock.json:1184 · external URL · `https://registry.npmjs.org/@types/babel__template/-/babel__template-7.4.4.tgz`
+- package-lock.json:1195 · external URL · `https://registry.npmjs.org/@types/babel__traverse/-/babel__traverse-7.28.0.tgz`
+- package-lock.json:1205 · external URL · `https://registry.npmjs.org/@types/estree/-/estree-1.0.9.tgz`
+- package-lock.json:1212 · external URL · `https://registry.npmjs.org/@vitejs/plugin-react/-/plugin-react-4.7.0.tgz`
+- package-lock.json:1233 · external URL · `https://registry.npmjs.org/baseline-browser-mapping/-/baseline-browser-mapping-2.11.27.tgz`
+- package-lock.json:1246 · external URL · `https://registry.npmjs.org/browserslist/-/browserslist-4.29.3.tgz`
+- package-lock.json:1252 · external URL · `https://opencollective.com/browserslist`
+- package-lock.json:1256 · external URL · `https://tidelift.com/funding/github/npm/browserslist`
+- package-lock.json:1260 · external URL · `https://github.com/sponsors/ai`
+- package-lock.json:1280 · external URL · `https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001815.tgz`
+- package-lock.json:1286 · external URL · `https://opencollective.com/browserslist`
+- package-lock.json:1290 · external URL · `https://tidelift.com/funding/github/npm/caniuse-lite`
+- package-lock.json:1294 · external URL · `https://github.com/sponsors/ai`
+- package-lock.json:1301 · external URL · `https://registry.npmjs.org/convert-source-map/-/convert-source-map-2.0.0.tgz`
+- package-lock.json:1308 · external URL · `https://registry.npmjs.org/debug/-/debug-4.4.3.tgz`
+- package-lock.json:1326 · external URL · `https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.5.451.tgz`
+- package-lock.json:1333 · external URL · `https://registry.npmjs.org/esbuild/-/esbuild-0.21.5.tgz`
+- package-lock.json:1372 · external URL · `https://registry.npmjs.org/escalade/-/escalade-3.2.0.tgz`
+- package-lock.json:1382 · external URL · `https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz`
+- package-lock.json:1397 · external URL · `https://registry.npmjs.org/gensync/-/gensync-1.0.0-beta.2.tgz`
+- package-lock.json:1407 · external URL · `https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz`
+- package-lock.json:1413 · external URL · `https://registry.npmjs.org/jsesc/-/jsesc-3.1.0.tgz`
+- package-lock.json:1426 · external URL · `https://registry.npmjs.org/json5/-/json5-2.2.3.tgz`
+- package-lock.json:1439 · external URL · `https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz`
+- package-lock.json:1451 · external URL · `https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz`
+- package-lock.json:1461 · external URL · `https://registry.npmjs.org/ms/-/ms-2.1.3.tgz`
+- package-lock.json:1468 · external URL · `https://registry.npmjs.org/nanoid/-/nanoid-3.3.20.tgz`
+- package-lock.json:1474 · external URL · `https://github.com/sponsors/ai`
+- package-lock.json:1487 · external URL · `https://registry.npmjs.org/node-releases/-/node-releases-2.0.57.tgz`
+- package-lock.json:1497 · external URL · `https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz`
+- package-lock.json:1504 · external URL · `https://registry.npmjs.org/postcss/-/postcss-8.5.29.tgz`
+- package-lock.json:1510 · external URL · `https://opencollective.com/postcss/`
+- package-lock.json:1514 · external URL · `https://tidelift.com/funding/github/npm/postcss`
+- package-lock.json:1518 · external URL · `https://github.com/sponsors/ai`
+- package-lock.json:1533 · external URL · `https://registry.npmjs.org/react/-/react-18.3.1.tgz`
+- package-lock.json:1545 · external URL · `https://registry.npmjs.org/react-dom/-/react-dom-18.3.1.tgz`
+- package-lock.json:1558 · external URL · `https://registry.npmjs.org/react-refresh/-/react-refresh-0.17.0.tgz`
+- package-lock.json:1568 · external URL · `https://registry.npmjs.org/rollup/-/rollup-4.64.2.tgz`
+- package-lock.json:1614 · external URL · `https://registry.npmjs.org/scheduler/-/scheduler-0.23.2.tgz`
+- package-lock.json:1623 · external URL · `https://registry.npmjs.org/semver/-/semver-6.3.1.tgz`
+- package-lock.json:1633 · external URL · `https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.2.tgz`
+- package-lock.json:1643 · external URL · `https://registry.npmjs.org/update-browserslist-db/-/update-browserslist-db-1.3.4.tgz`
+- package-lock.json:1649 · external URL · `https://opencollective.com/browserslist`
+- package-lock.json:1653 · external URL · `https://tidelift.com/funding/github/npm/browserslist`
+- package-lock.json:1657 · external URL · `https://github.com/sponsors/ai`
+- package-lock.json:1674 · external URL · `https://registry.npmjs.org/vite/-/vite-5.4.21.tgz`
+- package-lock.json:1690 · external URL · `https://github.com/vitejs/vite?sponsor=1`
+- package-lock.json:1734 · external URL · `https://registry.npmjs.org/yallist/-/yallist-3.1.1.tgz`
+- package.json:6 · external URL · `https://pekenbanyumasan.pages.dev`
+- src\data\content.js:19 · external URL · `https://kolabolator-pekenbanyumasan.pages.dev`
+- src\data\content.js:23 · external URL · `https://artisan-pekenbanyumasan.pages.dev`
+- src\data\content.js:72 · external URL · `https://maps.google.com/?q=Taman+Sari+Kecamatan+Banyumas+Kabupaten+Banyumas+Jawa+Tengah`
+- src\data\content.js:73 · external URL · `https://maps.google.com/?q=Trans+Banyumas+Koridor+4`
+- src\data\content.js:1011 · external URL · `https://company-profile-pb.up.railway.app`
+- src\lib\api.js:7 · external URL · `https://company-profile-pb.up.railway.app'`
+- src\lib\api.js:26 · external URL · `https://${base}';`
+
+## 结论
+- 需要处理上面的残留项后再声明可部署。

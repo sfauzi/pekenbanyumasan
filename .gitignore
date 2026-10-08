@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# build output (the root bundle/ + index.html are tracked mirrors of `npm run build`)
+dist/
+
+# logs & OS cruft
+*.log
+.DS_Store
+Thumbs.db

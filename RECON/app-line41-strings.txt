@@ -1,0 +1,536 @@
+ZIP · ±420 MB per edisi
+};function Gh(){const[t,i]=re.useState(Qh),[a,o]=re.useState(Qo),[u,c]=re.useState(!0);re.useEffect(()=>{It.get(
+).then(y=>{y?.images?.length&&i(y.images.filter(k=>k.visible!==!1)),y?.doc_headline&&o({headline:y.doc_headline,body:y.doc_body||Qo.body,ukuran:y.doc_ukuran||Qo.ukuran,download_url:y.doc_download_url||
+})}).catch(()=>{}).finally(()=>c(!1))},[]);const f=p.jsxs(
+,{style:{background:
+,color:
+},children:[p.jsxs(
+,{style:{padding:
+},children:[p.jsx(Je,{style:{color:
+},children:
+}),p.jsx(
+,{style:{fontFamily:
+,fontWeight:400,fontSize:
+,lineHeight:1.15,margin:
+,maxWidth:1e3},children:
+})]}),p.jsx(
+},children:p.jsx(
+,{style:{columnCount:3,columnGap:24},children:t.map((y,k)=>{const x=y.src||`/assets/${y.filename}.jpg`;return p.jsxs(
+,{style:{breakInside:
+,marginBottom:24},children:[p.jsx(Si,{src:x,alt:y.label,aspect:
+,mode:
+,style:{aspectRatio:
+,paddingBottom:
+}}),p.jsxs(
+,fontSize:11,color:
+,letterSpacing:
+,textTransform:
+,marginTop:8,display:
+,justifyContent:
+},children:[p.jsx(
+,{children:y.label}),p.jsx(
+,{children:y.year})]})]},y.id||y.filename)})})})]}),m=p.jsx(
+,background:
+},children:p.jsxs(
+,{style:{display:
+,gridTemplateColumns:
+,gap:60,alignItems:
+,{children:p.jsx(
+,fontSize:12,fontWeight:400,letterSpacing:
+})}),p.jsxs(
+,{children:[p.jsx(
+,fontWeight:400,fontSize:32,lineHeight:1.25,color:
+,maxWidth:
+},children:a.headline}),p.jsx(
+,fontSize:14,lineHeight:1.9,color:
+,margin:
+,whiteSpace:
+},children:a.body})]}),p.jsxs(
+,flexDirection:
+,alignItems:
+,gap:16},children:[p.jsx(Xe,{inverse:!0,onClick:()=>a.download_url&&window.open(a.download_url,
+noopener,noreferrer
+Unduh Paket Dokumentasi
+var(--font-body)
+var(--peken-smoke)
+.04em
+100vh
+var(--bg-elevated)
+#fff
+0 var(--page-px)
+var(--accent)
+ARSIP TERBUKA · CREATIVE COMMONS
+h2
+var(--font-display)
+clamp(28px, 6vw, 48px)
+0 auto
+Setiap foto di atas bebas
+,p.jsx(
+,{style:{fontStyle:
+,fontFamily:
+— untuk riset, jurnalisme, atau keperluan komunitas.
+},children:[
+,{style:{color:
+]})]});return u?p.jsx(ji,{}):p.jsxs(
+},children:[f,p.jsx(Cf,{before:g,after:m,mode:
+,pinHeight:
+,fromColor:
+,toColor:
+})]})}function Yh({work:t,onClose:i,onViewProfile:a}){const o=!!a&&!!t?.has_profile,u=()=>{!t||!o||(i(),a(t.owner_id||t.owner))};return p.jsx(Ss,{open:!!t,onClose:i,labelledBy:
+,width:1080,padded:!1,children:t&&p.jsxs(
+,minHeight:
+,{style:{background:`var(--bg-deep) url('${t.gambar_url}') center/contain no-repeat`,aspectRatio:
+,minHeight:200}}),p.jsxs(
+,display:
+,gap:20},children:[p.jsxs(
+,gap:12},children:[p.jsxs(Je,{style:{color:
+,(t.kategori_display||
+).toUpperCase(),
+,t.tahun]}),p.jsx(
+,{onClick:i,
+Tutup lightbox
+,{id:
+,style:{fontFamily:
+,fontWeight:400,fontSize:28,lineHeight:1.25,color:
+,margin:0},children:t.judul}),p.jsx(
+,{style:{paddingBottom:20,borderBottom:
+,{onClick:u,title:o?`Lihat profil publik ${t.owner}`:void 0,style:{background:
+,border:0,padding:0,cursor:o?
+var(--accent-ink)
+).charAt(0).toUpperCase()}),p.jsxs(
+,fontSize:14,color:
+,lineHeight:1.25,...o?{textDecoration:
+,textUnderlineOffset:3,textDecorationColor:
+}:{}},children:t.owner}),p.jsxs(
+},children:[t.kategori_display||
+,o?
+]})]})]})}),p.jsx(
+,fontSize:13,lineHeight:1.8,color:
+,margin:0},children:t.deskripsi||
+}),p.jsxs(
+,{style:{marginTop:
+,paddingTop:16,display:
+,gap:12,flexWrap:
+},children:[o&&p.jsx(Xe,{onClick:u,children:
+}),p.jsx(Xe,{inverse:!0,onClick:i,children:
+})]})]})]})})}const qh=[{id:
+,judul:
+,gambar_url:
+,owner:
+,owner_type:
+,owner_id:
+,kategori_display:
+,tahun:2026,deskripsi:
+,featured:!0},{id:
+,tahun:2025,deskripsi:
+,tahun:2024,deskripsi:
+,tahun:2023,deskripsi:
+,featured:!1},{id:
+,featured:!1}];function Dd({onNavigate:t}){const[i,a]=re.useState(null),[o,u]=re.useState(qh),[c,f]=re.useState(!0);re.useEffect(()=>{Promise.allSettled([It.get(
+),Ch.list({limit:100})]).then(([g,y])=>{const k=g.status===
+&&Array.isArray(g.value)?g.value.filter(v=>v.visible!==!1).map(v=>({...v,has_profile:!1})):[],b=[...y.status===
+&&Array.isArray(y.value)?y.value.map(v=>({id:v.id,judul:v.judul,gambar_url:v.gambar_url,owner:v.owner,owner_id:v.owner_slug||v.owner_id,kategori_display:v.subsektor,tahun:v.tahun,deskripsi:v.deskripsi,has_profile:!0})):[],...k];b.length&&u(b)}).catch(()=>{}).finally(()=>f(!1))},[]);const m=g=>{t&&t(
+,g)};return c?p.jsx(ji,{}):p.jsxs(
+,gap:40,alignItems:
+,marginTop:24},children:[p.jsx(
+,lineHeight:1.15,margin:0,maxWidth:900},children:
+,fontSize:13,lineHeight:1.9,color:
+,margin:0},children:
+})]})]}),p.jsx(
+,gap:24},children:o.map(g=>p.jsx(Si,{src:g.gambar_url,alt:`${g.judul} oleh ${g.owner}`,aspect:
+,onClick:()=>a(g),ariaLabel:`Buka detail karya ${g.judul} oleh ${g.owner}`,caption:p.jsxs(
+,marginBottom:6},children:g.kategori_display}),p.jsx(
+,fontWeight:500,fontSize:16,color:
+,marginBottom:4},children:g.owner}),p.jsx(
+,fontSize:12,color:
+},children:g.judul})]})},g.id))})}),p.jsx(Yh,{work:i,onClose:()=>a(null),onViewProfile:m})]})}const Pf=(...t)=>t.filter((i,a,o)=>!!i&&i.trim()!==
+&&o.indexOf(i)===a).join(
+).trim();const Xh=t=>t.replace(/([a-z0-9])([A-Z])/g,
+).toLowerCase();const Jh=t=>t.replace(/^([A-Z])|[\s-_]+(\w)/g,(i,a,o)=>o?o.toUpperCase():a.toLowerCase());const Md=t=>{const i=Jh(t);return i.charAt(0).toUpperCase()+i.slice(1)};var Go={xmlns:
+,width:24,height:24,viewBox:
+,fill:
+,stroke:
+,strokeWidth:2,strokeLinecap:
+,strokeLinejoin:
+};const Zh=t=>{for(const i in t)if(i.startsWith(
+)||i===
+||i===
+)return!0;return!1},eg=re.createContext({}),ng=()=>re.useContext(eg),tg=re.forwardRef(({color:t,size:i,strokeWidth:a,absoluteStrokeWidth:o,className:u=
+,children:c,iconNode:f,...m},g)=>{const{size:y=24,strokeWidth:k=2,absoluteStrokeWidth:x=!1,color:b=
+,className:v=
+}=ng()??{},N=o??x?Number(a??k)*24/Number(i??y):a??k;return re.createElement(
+,{ref:g,...Go,width:i??y??Go.width,height:i??y??Go.height,stroke:t??b,strokeWidth:N,className:Pf(
+,v,u),...!c&&!Zh(m)&&{
+M8 2v4
+1cmpym
+M16 2v4
+4m81vk
+,y:
+,rx:
+,key:
+,{d:
+}]],ig=Ga(
+,rg);const ag=[[
+}]],lg=Ga(
+,ag);const og=[[
+,{cx:
+,cy:
+,r:
+}]],Tf=Ga(
+,og);const sg=[[
+,{x1:
+,x2:
+,y1:
+,y2:
+}]],ug=Ga(
+,sg);function bs(t){return t?t.toLowerCase().normalize(
+).replace(/[̀-ͯ]/g,
+).replace(/\s+/g,
+).replace(/[^a-z0-9-]/g,
+).replace(/-{2,}/g,
+).replace(/^-+|-+$/g,
+}const cg=[{id:
+,slug:
+,nama:
+,role:
+,subsektor:[
+Lainnya
+Banyumas
+Fotografer dokumenter yang berfokus pada kebudayaan lokal Banyumas. Bekerja sama dengan Peken Banyumasan sejak 2022 sebagai fotografer tetap setiap edisi.
+k1
+Senja di Pasar Lama
+/assets/gallery-1.jpg
+Fotografi
+Seri foto malam di kawasan Pasar Lama Banyumas. Diambil dengan kamera analog format 35mm.
+k2
+Wajah-Wajah Peken
+/assets/gallery-perform-1.jpg
+Potret para pedagang dan pengunjung Peken dalam momen kebersamaan yang autentik.
+k3
+Ritual Panggung #47
+/assets/gallery-perform-2.jpg
+Dokumentasi pertunjukan Pitutur Banyumasan edisi ke-47 di Taman Sari.
+s1
+Malam ini mengabadikan Peken edisi ke-86. Selalu ada sudut baru yang belum pernah saya foto sebelumnya — itulah yang membuat saya terus kembali setiap edisi.
+Peken
+s2
+Analog
+e1
+Peken Edisi #86
+Taman Sari, Banyumas
+Fotografer Resmi
+Dokumentasi penuh edisi ke-86 Peken Banyumasan.
+e2
+Workshop Foto Analog
+Studio Wignya, Purwokerto
+Fasilitator
+Workshop praktik fotografi analog untuk komunitas kreatif Banyumas.
+Sanggar Lestari Sokaraja
+Kriya
+Sokaraja, Banyumas
+Sanggar tenun lurik yang dijalankan oleh tiga generasi keluarga penenun dari Sokaraja. Berkomitmen menjaga teknik tenun tradisional sembari mengeksplorasi desain kontemporer.
+Tenun Lurik Modular
+/assets/gallery-2.jpg
+Eksperimen tenun lurik dengan modul lebar tetap untuk memudahkan kombinasi warna oleh desainer pakaian.
+Lurik Diagonal Cilacap
+/assets/banner-home-1.jpg
+Koleksi tenun lurik dengan pola diagonal hasil kolaborasi dengan pengrajin Cilacap.
+Tiga generasi, satu alat tenun. Nenek saya memulai ini 60 tahun lalu. Saya hanya meneruskan, tapi dengan visi yang lebih jauh ke depan. 🧵
+Tenun
+Tradisi
+Pameran Tenun Nusantara
+Gedung Kesenian Banyumas
+Peserta Pameran
+Pameran koleksi tenun lurik bersama pengrajin dari berbagai daerah.
+Peken Edisi #80
+Artisan Resmi
+Booth tenun lurik di edisi ke-80 Peken Banyumasan.
+Komunitas Pitutur
+Seni Pertunjukan
+Komunitas pelestari seni lisan Banyumasan — kidung, wayang, geguritan. Tampil rutin di setiap edisi Peken sejak awal berdirinya gerakan ini.
+Edisi #54 — Geguritan Malam
+/assets/gallery-3.jpg
+Dokumentasi panggung geguritan malam pada Peken Edisi #54.
+Kidung Banyumasan #39
+Penampilan kidung Banyumasan dipandu dalang muda dari Kecamatan Sokaraja.
+Geguritan bukan hanya puisi — ia adalah cara orang Banyumas berbicara tentang dukanya, syukurnya, dan harapannya. Kami menjaga agar ia tetap hidup di telinga generasi baru.
+Geguritan
+Festival Seni Lisan Banyumasan
+Pendopo Banyumas
+Penampil Utama
+Festival tahunan seni lisan Banyumasan.
+Peken Edisi #54
+Taman Sari
+Penampil
+Penampilan geguritan malam di Peken #54.
+Reka Studio
+Fashion
+Desain Produk
+Purwokerto, Banyumas
+Studio desain mode yang mengadaptasi warisan batik dan tenun Banyumasan ke siluet pakaian kontemporer. Debut di Banyumasan Fashionshow Peken edisi ke-48.
+Banyumasan Streetwear Cap.1
+/assets/program-fashion.jpg
+Lini streetwear pertama dari Reka Studio yang mengadaptasi motif batik banyumasan.
+Koleksi terbaru sudah siap. Kami menggabungkan motif kawung dengan siluet oversized — percaya atau tidak, hasilnya sangat Banyumas tapi juga sangat saat ini.
+Mode
+Batik
+Banyumasan Fashionshow #48
+Perancang Utama
+Debut koleksi streetwear Banyumasan oleh Reka Studio.
+Artisan Tirta Karya
+Usaha kerajinan bambu ramah lingkungan yang mendukung gerakan zero-waste Peken melalui produksi wadah makanan tanpa lem sintetis.
+Wadah Bambu Lipat
+/assets/gallery-4.jpg
+Wadah makanan bambu lipat untuk mendukung Bring Your Own Bowl.
+Setiap wadah bambu yang kami buat menggantikan sekitar 200 wadah plastik sekali pakai selama masa pakainya. Kecil, tapi nyata dampaknya. 🌿
+ZeroWaste
+Peken Zero-Waste Challenge
+Mitra BYOB
+Penyediaan wadah bambu untuk kampanye zero-waste Peken.
+Kolektif Coret
+Seni Rupa
+Enam seniman muda yang percaya seni milik jalan, bukan galeri. Mural permanen mereka di Taman Sari menjadi latar ikonik Peken Banyumasan.
+Mural Kota Lama
+/assets/gallery-5.jpg
+Mural permanen pada dinding selatan Taman Sari, dilukis selama dua minggu.
+Dua minggu, enam tangan, satu tembok. Mural Kota Lama bukan hanya lukisan — ia adalah percakapan antara tradisi dan masa depan.
+Mural
+Seni Publik
+Open Call Mural Banyumas
+Kota Lama Banyumas
+Seniman Terpilih
+Open call karya mural untuk ruang publik baru di kota lama.
+Petani Kopi Baturraden
+F&B / Kuliner
+Baturraden, Banyumas
+Kelompok tani kopi di ketinggian 800 mdpl lereng Gunung Slamet. Robusta single-origin yang disangrai sendiri dan disajikan rutin di Coffee & Conversation Peken.
+Kopi Robusta Banyumas
+/assets/program-coffee.jpg
+Robusta single-origin dari ketinggian 800 mdpl di Baturraden.
+Musim panen kali ini luar biasa. Kondisi cuaca yang sempurna menghasilkan biji kopi dengan rasa lebih clean dan fruity dari biasanya.
+Kopi
+Panen
+Coffee & Conversation #12
+Penyedia Kopi
+Sesi diskusi santai sambil menikmati kopi Baturraden.
+Harvest Open Farm
+Kebun Kopi, Baturraden
+Tuan Rumah
+Kunjungan terbuka ke kebun kopi saat panen raya.
+Studio Wignya
+Studio desain yang berspesialisasi dalam identitas budaya Banyumasan. Merilis tipografi aksara Jawa sebagai font terbuka hasil riset bersama Universitas Jenderal Soedirman.
+Aksara Jawa Banyumasan
+/assets/gallery-6.jpg
+Tipografi aksara Jawa varian Banyumasan, dirilis sebagai font terbuka.
+Font aksara Jawa Banyumasan sudah diunduh lebih dari 3.000 kali di seluruh dunia. Identitas lokal ternyata bisa berdampak global jika dikemas dengan baik. ✍️
+Desain Grafis
+Aksara
+Peken Brand Identity Workshop
+Co-working UNSOED
+Workshop identitas visual untuk Artisan lokal Banyumas.
+Bu Tasrip & Komunitas
+Desa Banjarsari, Banyumas
+Komunitas perempuan Desa Banjarsari yang mengembangkan kerajinan anyaman pandan modular. Karya mereka bisa dirangkai menjadi berbagai produk fungsional.
+Anyaman Pandan Modular
+Anyaman pandan modular yang bisa dirangkai menjadi tas, alas duduk, atau partisi ruang.
+Dua puluh perempuan di desa kami kini punya penghasilan dari kerajinan anyaman pandan. Kecil tapi pasti — dan itu lebih dari cukup untuk membuat kami terus berkarya.
+Komunitas
+Peken Makers Market
+Peserta
+Penjualan anyaman pandan di pasar makers Peken.
+).replace(/\b\w/g,a=>a.toUpperCase()),role:
+,subsektor:[],kota:
+,status:
+,foto_url:null,cover_url:null,bio:
+,tanggal_daftar:
+,total_karya:0,total_story:0,total_event:0,karya:[],story:[],events:[]}};function Es(t){const i=t?.role===
+||t?.owner_type===
+,a=i?t?.kategori_usaha??t?.subsektor:t?.subsektor??t?.kategori_usaha,o=Array.isArray(a)?a:a?[a]:[];return{key:i?
+Kategori Usaha
+Subsektor
+id-ID
+,fg=t=>{if(!t)return
+;const i=Math.floor((Date.now()-new Date(t))/864e5);return i===0?
+:i===1?
+:i<7?`${i} hari lalu`:If(t)},pg=t=>t.status===
+&&new Date(t.tanggal)>new Date?
+:t.status;function mg({foto_url:t,nama:i,size:a=86}){const o=(i||
+).charAt(0).toUpperCase();return p.jsx(
+,{style:{width:a,height:a,borderRadius:
+,flexShrink:0,background:t?`url('${t}') center/cover`:
+},children:!t&&p.jsx(
+,fontWeight:700,fontSize:a*.38,color:
+},children:o})})}function hg({item:t,onClose:i}){return p.jsx(Ss,{open:!!t,onClose:i,labelledBy:
+,width:960,padded:!1,children:t&&p.jsxs(
+,minHeight:440},children:[p.jsx(
+,{style:{padding:36,display:
+,gap:16},children:[p.jsxs(
+},children:[p.jsxs(Je,{style:{color:
+},children:[Es(t).values.join(
+,fontWeight:400,fontSize:24,color:
+,margin:0,lineHeight:1.25},children:t.judul}),p.jsx(
+,fontSize:13,lineHeight:1.85,color:
+,margin:0},children:t.deskripsi}),p.jsx(
+,paddingTop:12},children:p.jsx(Xe,{onClick:i,children:
+})})]})]})})}function gg({item:t,onClick:i}){return p.jsx(Si,{src:t.gambar_url,alt:t.judul,aspect:
+,onClick:()=>i(t),ariaLabel:`Buka detail ${t.judul}`,caption:p.jsxs(
+,marginBottom:6},children:Es(t).values.join(
+)}),p.jsx(
+,fontWeight:500,fontSize:15,color:
+,marginBottom:4},children:t.judul}),p.jsx(
+},children:t.tahun})]})})}function yg({story:t}){return p.jsxs(
+,{style:{borderLeft:
+,paddingLeft:24,paddingBlock:4,display:
+,gap:10},children:[t.media_url&&p.jsx(
+,{src:t.media_url,alt:
+,style:{width:
+,aspectRatio:
+,objectFit:
+}}),p.jsx(
+,margin:0},children:t.konten}),p.jsx(
+},children:fg(t.created_at)})]})}const kg={upcoming:
+,berlangsung:
+,selesai:
+,published:
+},vg={upcoming:
+,draft:
+};function xg({ev:t}){const i=pg(t),a=kg[i]||
+;return p.jsxs(
+,{style:{borderLeft:`2px solid ${a}`,paddingLeft:24,display:
+,gap:8},children:[p.jsxs(
+,gap:10,flexWrap:
+},children:[p.jsx(Je,{style:{color:a},children:vg[i]||i}),t.peran&&p.jsx(
+,fontSize:10,color:
+,border:
+,padding:
+},children:t.peran})]}),p.jsx(
+,fontWeight:400,fontSize:16,color:
+,lineHeight:1.3},children:t.nama}),p.jsxs(
+,gap:16,flexWrap:
+},children:[t.tanggal&&p.jsxs(
+,gap:5},children:[p.jsx(ig,{size:11}),
+,If(t.tanggal)]}),t.lokasi&&p.jsxs(
+,gap:5},children:[p.jsx(Tf,{size:11}),
+,t.lokasi]})]}),t.deskripsi&&p.jsx(
+,fontSize:12,lineHeight:1.7,color:
+,margin:0},children:t.deskripsi})]})}function Yo({label:t}){return p.jsxs(
+,{style:{textAlign:
+,fontWeight:300,fontSize:
+,marginBottom:16},children:
+},children:t})]})}function wg({ownerName:t,onBack:i}){const a=dg(t),[o,u]=re.useState(a),[c,f]=re.useState(null),[m,g]=re.useState(
+);re.useEffect(()=>{if(!t)return;const v=bs(t);Ph.bySlug(v).then(N=>{N&&u(N)}).catch(()=>{})},[t]);const y=()=>{const v=window.location.href;navigator.share?navigator.share({title:`${o?.nama} — Peken Banyumasan`,url:v}):navigator.clipboard?.writeText(v).then(()=>alert(
+))};if(!o)return p.jsx(
+,marginBottom:24},children:
+}),p.jsx(Xe,{onClick:i,children:
+})]})});const k=(o?.karya||[]).find(v=>v.featured),x=o?.cover_url||k?.gambar_url||null,b=[{id:
+,label:`Karya (${(o?.karya||[]).length})`},{id:
+,label:`Story (${(o?.story||[]).length})`},{id:
+,label:`Event (${(o?.events||[]).length})`}];return p.jsxs(
+},children:[p.jsx(hg,{item:c,onClose:()=>f(null)}),p.jsx(
+,{style:{height:200,background:x?`linear-gradient(to bottom,rgba(13,13,13,.1),rgba(13,13,13,.75)),url('${x}') center/cover`:
+},children:!x&&p.jsx(
+,{style:{height:
+,paddingRight:120},children:p.jsx(
+,userSelect:
+})})}),p.jsx(
+,borderBottom:
+,{style:{maxWidth:1060,margin:
+,gap:24,transform:
+,marginBottom:-20},children:[p.jsx(mg,{foto_url:o?.foto_url,nama:o?.nama,size:86}),p.jsxs(
+,{style:{flex:1,paddingBottom:14},children:[p.jsxs(
+,fontWeight:400,fontSize:28,color:
+,margin:0,lineHeight:1.1},children:o.nama}),p.jsx(
+,fontSize:9,fontWeight:500,background:
+},children:o?.role?o.role.charAt(0).toUpperCase()+o.role.slice(1):
+}),o.status===
+&&p.jsxs(
+,gap:4},children:[p.jsx(lg,{size:9}),
+]})]}),p.jsxs(
+,gap:12,marginTop:10,flexWrap:
+},children:[Es(o).values.map(v=>p.jsx(
+},children:v},v)),o.kota&&p.jsxs(
+,gap:4},children:[p.jsx(Tf,{size:11}),
+,o.kota]}),p.jsxs(
+,o?.tanggal_daftar?new Date(o.tanggal_daftar).getFullYear():
+]})]})]}),p.jsxs(
+,{style:{flexShrink:0,display:
+,gap:10,paddingBottom:14},children:[p.jsxs(
+,{onClick:y,style:{background:
+,cursor:
+,fontSize:11,textTransform:
+,gap:6},children:[p.jsx(ug,{size:12}),
+]}),p.jsx(Xe,{inverse:!0,onClick:i,children:
+})]})]})})}),p.jsx(
+,gap:48,alignItems:
+,fontWeight:500,fontSize:12,color:
+,marginTop:6},children:[o?.role?o.role.charAt(0).toUpperCase()+o.role.slice(1):
+]})]}),p.jsx(
+,margin:0,maxWidth:
+},children:o?.bio}),p.jsx(
+,gap:32},children:[[
+,o?.total_karya??0],[
+,o?.total_story??0],[
+,o?.total_event??0]].map(([v,N])=>p.jsxs(
+,lineHeight:1,color:
+},children:N}),p.jsx(
+,marginTop:4},children:v})]},v))})]})}),p.jsx(
+,position:
+,top:80,zIndex:40},children:p.jsx(
+},children:b.map(v=>p.jsx(
+,{onClick:()=>g(v.id),style:{background:
+,border:0,cursor:
+,marginRight:32,fontFamily:
+,fontWeight:400,fontSize:11,color:m===v.id?
+var(--fg-muted)
+.07em
+2px solid var(--accent)
+2px solid transparent
+color 200ms ease, border-color 200ms ease
+52px var(--page-px) 96px
+repeat(3, 1fr)
+Belum ada karya yang dipublikasikan.
+1fr 1fr
+28px 52px
+Belum ada story yang ditulis.
+Belum ada event yang diikuti.
+1px solid rgba(255,255,255,.06)
+24px var(--page-px)
+Peken Banyumasan · Ekosistem Kreatif Banyumas
+]})]})})]})}function Sg(t,i){const a={};return(t[t.length-1]===
+?[...t,
+]:t).join((a.padRight?
++(a.padLeft===!1?
+)).trim()}const jg=/^[$_\p{ID_Start}][$_\u{200C}\u{200D}\p{ID_Continue}]*$/u,bg=/^[$_\p{ID_Start}][-$_\u{200C}\u{200D}\p{ID_Continue}]*$/u,Eg={};function Od(t,i){return(Eg.jsx?bg:jg).test(t)}const _g=/[ \t\n\f\r]/g;function Cg(t){return typeof t==
+?t.type===
+?Ud(t.value):!1:Ud(t)}function Ud(t){return t.replace(_g,
+;vn.prototype.booleanish=!1;vn.prototype.boolean=!1;vn.prototype.commaOrSpaceSeparated=!1;vn.prototype.commaSeparated=!1;vn.prototype.defined=!1;vn.prototype.mustUseProperty=!1;vn.prototype.number=!1;vn.prototype.overloadedBoolean=!1;vn.prototype.property=
+Module
+aria-
+panose-1
+xlink:
+xmlns:xlink
+xml:
+classID
+itemID
+strokeDasharray
+strokeDashoffset
+strokeLinecap
+strokeLinejoin
+strokeMiterlimit
+xlinkActuate
+xlinkArcrole
+xlinkHref
+xlinkRole
+xlinkShow
+xlinkTitle
+xlinkType
+xmlnsXlink
+){const c=i.slice(5).replace(Wd,Ng);o=
++c.charAt(0).toUpperCase()+c.slice(1)}else{const c=i.slice(4);if(!Wd.test(c)){let f=c.replace(Ag,Fg);f.charAt(0)!==
+&&(f=
++f),i=
++f}}u=_s}return new u(o,i)}function Fg(t){return
++t.toLowerCase()}function Ng(t){return t.charAt(1).toUpperCase()}const Bg=zf([Af,Tg,Ff,Nf,Bf],
+),Cs=zf([Af,Ig,Ff,Nf,Bf],
+);function Dg(t){return t.join(
+).trim()}var xr={},Xo,Kd;function Mg(){if(Kd)return Xo;Kd=1;var t=/\/\*[^*]*\*+([^/*][^*]*\*+)*\//g,i=/\n/g,a=/^\s*/,o=/^(\*?[-#/*\\\w]+(\[[0-9a-z_-]+\])?)\s*/,u=/^:\s*/,c=/^((?:'(?:\\'|.)*?'|

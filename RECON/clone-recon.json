@@ -1,0 +1,3864 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:4173/",
+  "capturedAt": "2026-10-08T04:04:02.009Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "http://127.0.0.1:4173/",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "http://127.0.0.1:4173/",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "http://127.0.0.1:4173/",
+      "readyState": "complete"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-1440.png",
+      "signals": {
+        "href": "http://127.0.0.1:4173/",
+        "title": "Peken Banyumasan",
+        "lang": "id",
+        "bodyTextChars": 3027,
+        "scrollHeight": 3177,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "Temukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem."
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Temukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem."
+          }
+        ],
+        "metaDescription": "Peken Banyumasan — ruang kreatif berbasis budaya lokal di Banyumas. Pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.",
+        "counts": {
+          "links": 12,
+          "images": 18,
+          "video": 0,
+          "canvas": 0,
+          "sections": 8,
+          "forms": 0,
+          "buttons": 11,
+          "inputs": 0,
+          "interactive": 29,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:4173/bundle/app.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:4173/bundle/app.css"
+        ],
+        "sections": [
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "pk-nav",
+            "text": "HOMEABOUTPROGRAMPUBLICATIONGALLERYLogin",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1425,
+              "height": 80
+            },
+            "style": {
+              "display": "grid",
+              "position": "sticky",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "",
+            "className": "",
+            "text": "MIRAPAT · BANYUMASAN · 2026PEKENBANYUMASANTemukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.Detail AgendaTentang PekenPEKENBANYUMASANPeken Banyumasan adalah sebuah ruang kreatif berbasis budaya lokal yang diranc",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 1425,
+              "height": 2649
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "MIRAPAT · BANYUMASAN · 2026PEKENBANYUMASANTemukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.Detail AgendaTentang Peken",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 1425,
+              "height": 640
+            },
+            "style": {
+              "display": "flex",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "PEKENBANYUMASANPeken Banyumasan adalah sebuah ruang kreatif berbasis budaya lokal yang dirancang sebagai wadah berkumpulnya masyarakat, pelaku Artisan, seniman, dan komunitas dalam satu ekosistem yang hidup, inklusif, dan berkelanjutan. Pek",
+            "rect": {
+              "x": 0,
+              "y": 720,
+              "width": 1425,
+              "height": 441
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "AGENDATERDEKAT—Agenda berikutnya akan diumumkanPantau terus informasi event Peken Banyumasan berikutnya.Detail Agenda",
+            "rect": {
+              "x": 0,
+              "y": 1161,
+              "width": 1425,
+              "height": 424
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "ENAM PROGRAM · TIAP EDISISetiap edisi Peken berputar pada enam program tetap.Lihat Semua Program✕PROGRAM · 01Banyumasan FashionshowPeragaan busana bertema kebudayaan Banyumas — tenun, batik, karya desainer lokal.✕PROGRAM · 02Bring Your Own ",
+            "rect": {
+              "x": 0,
+              "y": 1585,
+              "width": 1425,
+              "height": 541
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "lokasi",
+            "className": "",
+            "text": "LOKASIKawasan Kota Lama Banyumas. Taman Sari · Sudagaran.Perjalanan menuju Peken BanyumasanBanyumas, Sudagaran, Kec. Banyumas, Kabupaten Banyumas, Jawa Tengah 53192Rute Peken BanyumasanHalte Trans Banyumas TerdekatTrans Banyumas Koridor 4 ·",
+            "rect": {
+              "x": 0,
+              "y": 2126,
+              "width": 1425,
+              "height": 603
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(17, 17, 17)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "",
+            "text": "Ruang budaya dan ekonomi kreatif di Banyumas yang mempertemukan seni, Artisan, dan masyarakat dalam satu ruang kolaborasi yang hidup dan berkelanjutan.#MirapatBanyumasanAlamatBanyumas, Sudagaran, Kec. Banyumas,Kabupaten Banyumas, Jawa Tenga",
+            "rect": {
+              "x": 0,
+              "y": 2729,
+              "width": 1425,
+              "height": 448
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--peken-sage",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--peken-sage-52",
+            "rgba(195, 202, 150, .519)"
+          ],
+          [
+            "--peken-sage-66",
+            "rgba(195, 202, 150, .6621)"
+          ],
+          [
+            "--peken-sage-84",
+            "rgba(195, 202, 150, .8364)"
+          ],
+          [
+            "--peken-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--peken-ink-90",
+            "rgba(13, 13, 13, .9)"
+          ],
+          [
+            "--peken-ink-23",
+            "rgba(13, 13, 13, .2282)"
+          ],
+          [
+            "--peken-ink-88",
+            "rgba(13, 13, 13, .8806)"
+          ],
+          [
+            "--peken-charcoal",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--peken-carbon",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--peken-coal",
+            "rgb(26, 27, 26)"
+          ],
+          [
+            "--peken-white",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--peken-mist",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--peken-smoke",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--peken-smoke-2",
+            "rgb(90, 90, 90)"
+          ],
+          [
+            "--bg-page",
+            "var(--peken-charcoal)"
+          ],
+          [
+            "--bg-elevated",
+            "var(--peken-carbon)"
+          ],
+          [
+            "--bg-deep",
+            "var(--peken-ink)"
+          ],
+          [
+            "--bg-inverse",
+            "var(--peken-sage)"
+          ],
+          [
+            "--fg-primary",
+            "var(--peken-white)"
+          ],
+          [
+            "--fg-secondary",
+            "var(--peken-mist)"
+          ],
+          [
+            "--fg-muted",
+            "var(--peken-smoke)"
+          ],
+          [
+            "--fg-on-sage",
+            "var(--peken-ink)"
+          ],
+          [
+            "--fg-accent",
+            "var(--peken-sage)"
+          ],
+          [
+            "--accent",
+            "var(--peken-sage)"
+          ],
+          [
+            "--accent-ink",
+            "var(--peken-ink)"
+          ],
+          [
+            "--gradient-sage-up",
+            "linear-gradient( rgba(195, 202, 150, 0) 0%, rgba(195, 202, 150, .519) 25%, rgba(195, 202, 150, .6621) 36%, rgba(195, 202, 150, .8364) 58%, rgb(195, 202, 150) 94% )"
+          ],
+          [
+            "--gradient-ink-down",
+            "linear-gradient( rgba(13, 13, 13, 0) 0%, rgba(13, 13, 13, .23) 12%, rgba(13, 13, 13, .88) 41%, rgb(13, 13, 13) 64% )"
+          ],
+          [
+            "--font-display",
+            "\"Clash Display\", \"Inter\", system-ui, sans-serif"
+          ],
+          [
+            "--font-body",
+            "\"Montserrat\", system-ui, -apple-system, sans-serif"
+          ],
+          [
+            "--font-italic",
+            "\"Playfair Display\", \"Bespoke Serif\", Georgia, serif"
+          ],
+          [
+            "--fs-12",
+            "12px"
+          ],
+          [
+            "--fs-14",
+            "14px"
+          ],
+          [
+            "--fs-16",
+            "16px"
+          ],
+          [
+            "--fs-20",
+            "20px"
+          ],
+          [
+            "--fs-32",
+            "32px"
+          ],
+          [
+            "--fs-96",
+            "96px"
+          ],
+          [
+            "--lh-tight",
+            "1"
+          ],
+          [
+            "--lh-snug",
+            "1.3"
+          ],
+          [
+            "--lh-normal",
+            "1.5"
+          ],
+          [
+            "--lh-relaxed",
+            "1.7"
+          ],
+          [
+            "--lh-loose",
+            "1.8"
+          ],
+          [
+            "--lh-reading",
+            "1.9"
+          ],
+          [
+            "--ls-normal",
+            "0"
+          ],
+          [
+            "--ls-label",
+            ".02em"
+          ],
+          [
+            "--page-max",
+            "1440px"
+          ],
+          [
+            "--gutter",
+            "120px"
+          ],
+          [
+            "--gutter-sm",
+            "80px"
+          ],
+          [
+            "--col-gap",
+            "24px"
+          ],
+          [
+            "--sp-1",
+            "4px"
+          ],
+          [
+            "--sp-2",
+            "10px"
+          ],
+          [
+            "--sp-3",
+            "20px"
+          ],
+          [
+            "--sp-4",
+            "24px"
+          ],
+          [
+            "--sp-5",
+            "30px"
+          ],
+          [
+            "--sp-6",
+            "40px"
+          ],
+          [
+            "--sp-7",
+            "60px"
+          ],
+          [
+            "--sp-8",
+            "80px"
+          ],
+          [
+            "--r-0",
+            "0px"
+          ],
+          [
+            "--r-sm",
+            "5px"
+          ],
+          [
+            "--ease-out",
+            "cubic-bezier(.22, .61, .36, 1)"
+          ],
+          [
+            "--dur-fast",
+            ".18s"
+          ],
+          [
+            "--dur-base",
+            ".32s"
+          ],
+          [
+            "--dur-slow",
+            ".56s"
+          ],
+          [
+            "--icon-xs",
+            "9px"
+          ],
+          [
+            "--icon-sm",
+            "16px"
+          ],
+          [
+            "--icon-md",
+            "20px"
+          ],
+          [
+            "--icon-lg",
+            "30px"
+          ],
+          [
+            "--icon-xl",
+            "100px"
+          ],
+          [
+            "--page-px",
+            "clamp(20px, 6vw, 120px)"
+          ],
+          [
+            "--section-py",
+            "clamp(56px, 9vw, 100px)"
+          ],
+          [
+            "--pix",
+            "50px"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--peken-sage",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--peken-sage-52",
+            "rgba(195, 202, 150, .519)"
+          ],
+          [
+            "--peken-sage-66",
+            "rgba(195, 202, 150, .6621)"
+          ],
+          [
+            "--peken-sage-84",
+            "rgba(195, 202, 150, .8364)"
+          ],
+          [
+            "--peken-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--peken-ink-90",
+            "rgba(13, 13, 13, .9)"
+          ],
+          [
+            "--peken-ink-23",
+            "rgba(13, 13, 13, .2282)"
+          ],
+          [
+            "--peken-ink-88",
+            "rgba(13, 13, 13, .8806)"
+          ],
+          [
+            "--peken-charcoal",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--peken-carbon",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--peken-coal",
+            "rgb(26, 27, 26)"
+          ],
+          [
+            "--peken-white",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--peken-mist",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--peken-smoke",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--peken-smoke-2",
+            "rgb(90, 90, 90)"
+          ],
+          [
+            "--bg-page",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--bg-elevated",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--bg-deep",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--bg-inverse",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--fg-primary",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--fg-secondary",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--fg-muted",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--fg-on-sage",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--fg-accent",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--accent",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--accent-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--gradient-sage-up",
+            "linear-gradient( rgba(195, 202, 150, 0) 0%, rgba(195, 202, 150, .519) 25%, rgba(195, 202, 150, .6621) 36%, rgba(195, 202, 150, .8364) 58%, rgb(195, 202, 150) 94% )"
+          ],
+          [
+            "--gradient-ink-down",
+            "linear-gradient( rgba(13, 13, 13, 0) 0%, rgba(13, 13, 13, .23) 12%, rgba(13, 13, 13, .88) 41%, rgb(13, 13, 13) 64% )"
+          ],
+          [
+            "--font-display",
+            "\"Clash Display\", \"Inter\", system-ui, sans-serif"
+          ],
+          [
+            "--font-body",
+            "\"Montserrat\", system-ui, -apple-system, sans-serif"
+          ],
+          [
+            "--font-italic",
+            "\"Playfair Display\", \"Bespoke Serif\", Georgia, serif"
+          ],
+          [
+            "--fs-12",
+            "12px"
+          ],
+          [
+            "--fs-14",
+            "14px"
+          ],
+          [
+            "--fs-16",
+            "16px"
+          ],
+          [
+            "--fs-20",
+            "20px"
+          ],
+          [
+            "--fs-32",
+            "32px"
+          ],
+          [
+            "--fs-96",
+            "96px"
+          ],
+          [
+            "--lh-tight",
+            "1"
+          ],
+          [
+            "--lh-snug",
+            "1.3"
+          ],
+          [
+            "--lh-normal",
+            "1.5"
+          ],
+          [
+            "--lh-relaxed",
+            "1.7"
+          ],
+          [
+            "--lh-loose",
+            "1.8"
+          ],
+          [
+            "--lh-reading",
+            "1.9"
+          ],
+          [
+            "--ls-normal",
+            "0"
+          ],
+          [
+            "--ls-label",
+            ".02em"
+          ],
+          [
+            "--page-max",
+            "1440px"
+          ],
+          [
+            "--gutter",
+            "120px"
+          ],
+          [
+            "--gutter-sm",
+            "80px"
+          ],
+          [
+            "--col-gap",
+            "24px"
+          ],
+          [
+            "--sp-1",
+            "4px"
+          ],
+          [
+            "--sp-2",
+            "10px"
+          ],
+          [
+            "--sp-3",
+            "20px"
+          ],
+          [
+            "--sp-4",
+            "24px"
+          ],
+          [
+            "--sp-5",
+            "30px"
+          ],
+          [
+            "--sp-6",
+            "40px"
+          ],
+          [
+            "--sp-7",
+            "60px"
+          ],
+          [
+            "--sp-8",
+            "80px"
+          ],
+          [
+            "--r-0",
+            "0px"
+          ],
+          [
+            "--r-sm",
+            "5px"
+          ],
+          [
+            "--ease-out",
+            "cubic-bezier(.22, .61, .36, 1)"
+          ],
+          [
+            "--dur-fast",
+            ".18s"
+          ],
+          [
+            "--dur-base",
+            ".32s"
+          ],
+          [
+            "--dur-slow",
+            ".56s"
+          ],
+          [
+            "--icon-xs",
+            "9px"
+          ],
+          [
+            "--icon-sm",
+            "16px"
+          ],
+          [
+            "--icon-md",
+            "20px"
+          ],
+          [
+            "--icon-lg",
+            "30px"
+          ],
+          [
+            "--icon-xl",
+            "100px"
+          ],
+          [
+            "--page-px",
+            "clamp(20px, 6vw, 120px)"
+          ],
+          [
+            "--section-py",
+            "clamp(56px, 9vw, 100px)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Login",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Detail Agenda",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Tentang Peken",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(195, 202, 150)",
+              "borderColor": "rgb(195, 202, 150)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(255, 255, 255, 0.45)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(255, 255, 255, 0.45)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Detail Agenda",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Lihat Semua Program",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 01Banyumasan FashionshowPerag",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 02Bring Your Own BowlGerakan ",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 03Local MarketPasar produk ke",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 1
+        },
+        "fonts": [
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Playfair Display",
+          "Playfair Display",
+          "Playfair Display",
+          "Playfair Display",
+          "Clash Display",
+          "Clash Display",
+          "Clash Display",
+          "Clash Display"
+        ],
+        "fontFaces": [
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app2.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app2.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app3.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app3.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app4.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app5.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app5.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app6.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app6.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app7.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app7.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app8.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app8.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app9.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app9.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app10.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app10.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app11.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app11.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app12.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app12.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app13.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app13.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app14.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app14.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./app15.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./app15.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./app16.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./app16.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./app17.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./app17.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "./app18.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 700; font-display: swap; src: url(\"./app18.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:4173/assets/logotype-peken-nav.png",
+            "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "http://127.0.0.1:4173/assets/map-kota-lama.png",
+            "http://127.0.0.1:4173/favicon.png",
+            "http://127.0.0.1:4173/assets/banner-home-1.jpg",
+            "http://127.0.0.1:4173/assets/banner-home-2.jpg",
+            "http://127.0.0.1:4173/assets/banner-about.png",
+            "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "http://127.0.0.1:4173/assets/program-makers.jpg"
+          ],
+          "fonts": [
+            "http://127.0.0.1:4173/bundle/app10.woff2",
+            "http://127.0.0.1:4173/bundle/app15.woff2",
+            "http://127.0.0.1:4173/bundle/app16.woff2",
+            "http://127.0.0.1:4173/bundle/app14.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:4173/assets/logotype-peken-nav.png",
+            "srcset": "",
+            "alt": "Peken Banyumasan",
+            "width": 3066,
+            "height": 1736
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "srcset": "",
+            "alt": "Banyumasan Fashionshow",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "srcset": "",
+            "alt": "Bring Your Own Bowl",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "srcset": "",
+            "alt": "Local Market",
+            "width": 3984,
+            "height": 2656
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 3984,
+            "height": 2656
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "srcset": "",
+            "alt": "Pitutur Banyumasan",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "srcset": "",
+            "alt": "Coffee & Conversation",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-makers.jpg",
+            "srcset": "",
+            "alt": "Makers Workshop",
+            "width": 2656,
+            "height": 3984
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-makers.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 2656,
+            "height": 3984
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/map-kota-lama.png",
+            "srcset": "",
+            "alt": "Peta kawasan Kota Lama Banyumas",
+            "width": 1600,
+            "height": 1200
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-768.png",
+      "signals": {
+        "href": "http://127.0.0.1:4173/",
+        "title": "Peken Banyumasan",
+        "lang": "id",
+        "bodyTextChars": 2982,
+        "scrollHeight": 4741,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "Temukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem."
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Temukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem."
+          }
+        ],
+        "metaDescription": "Peken Banyumasan — ruang kreatif berbasis budaya lokal di Banyumas. Pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.",
+        "counts": {
+          "links": 12,
+          "images": 18,
+          "video": 0,
+          "canvas": 0,
+          "sections": 8,
+          "forms": 0,
+          "buttons": 11,
+          "inputs": 0,
+          "interactive": 29,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:4173/bundle/app.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:4173/bundle/app.css"
+        ],
+        "sections": [
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "pk-nav",
+            "text": "HOMEABOUTPROGRAMPUBLICATIONGALLERYLogin",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 753,
+              "height": 80
+            },
+            "style": {
+              "display": "grid",
+              "position": "sticky",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "",
+            "className": "",
+            "text": "MIRAPAT · BANYUMASAN · 2026PEKENBANYUMASANTemukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.Detail AgendaTentang PekenPEKENBANYUMASANPeken Banyumasan adalah sebuah ruang kreatif berbasis budaya lokal yang diranc",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 753,
+              "height": 3977
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "MIRAPAT · BANYUMASAN · 2026PEKENBANYUMASANTemukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.Detail AgendaTentang Peken",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 753,
+              "height": 642
+            },
+            "style": {
+              "display": "flex",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "PEKENBANYUMASANPeken Banyumasan adalah sebuah ruang kreatif berbasis budaya lokal yang dirancang sebagai wadah berkumpulnya masyarakat, pelaku Artisan, seniman, dan komunitas dalam satu ekosistem yang hidup, inklusif, dan berkelanjutan. Pek",
+            "rect": {
+              "x": 0,
+              "y": 722,
+              "width": 753,
+              "height": 736
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "AGENDATERDEKAT—Agenda berikutnya akan diumumkanPantau terus informasi event Peken Banyumasan berikutnya.Detail Agenda",
+            "rect": {
+              "x": 0,
+              "y": 1458,
+              "width": 753,
+              "height": 596
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "ENAM PROGRAM · TIAP EDISISetiap edisi Peken berputar pada enam program tetap.Lihat Semua Program✕PROGRAM · 01Banyumasan FashionshowPeragaan busana bertema kebudayaan Banyumas — tenun, batik, karya desainer lokal.✕PROGRAM · 02Bring Your Own ",
+            "rect": {
+              "x": 0,
+              "y": 2054,
+              "width": 753,
+              "height": 863
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "lokasi",
+            "className": "",
+            "text": "LOKASIKawasan Kota Lama Banyumas. Taman Sari · Sudagaran.Perjalanan menuju Peken BanyumasanBanyumas, Sudagaran, Kec. Banyumas, Kabupaten Banyumas, Jawa Tengah 53192Rute Peken BanyumasanHalte Trans Banyumas TerdekatTrans Banyumas Koridor 4 ·",
+            "rect": {
+              "x": 0,
+              "y": 2917,
+              "width": 753,
+              "height": 1140
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(17, 17, 17)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "",
+            "text": "Ruang budaya dan ekonomi kreatif di Banyumas yang mempertemukan seni, Artisan, dan masyarakat dalam satu ruang kolaborasi yang hidup dan berkelanjutan.#MirapatBanyumasanAlamatBanyumas, Sudagaran, Kec. Banyumas,Kabupaten Banyumas, Jawa Tenga",
+            "rect": {
+              "x": 0,
+              "y": 4057,
+              "width": 753,
+              "height": 685
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--peken-sage",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--peken-sage-52",
+            "rgba(195, 202, 150, .519)"
+          ],
+          [
+            "--peken-sage-66",
+            "rgba(195, 202, 150, .6621)"
+          ],
+          [
+            "--peken-sage-84",
+            "rgba(195, 202, 150, .8364)"
+          ],
+          [
+            "--peken-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--peken-ink-90",
+            "rgba(13, 13, 13, .9)"
+          ],
+          [
+            "--peken-ink-23",
+            "rgba(13, 13, 13, .2282)"
+          ],
+          [
+            "--peken-ink-88",
+            "rgba(13, 13, 13, .8806)"
+          ],
+          [
+            "--peken-charcoal",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--peken-carbon",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--peken-coal",
+            "rgb(26, 27, 26)"
+          ],
+          [
+            "--peken-white",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--peken-mist",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--peken-smoke",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--peken-smoke-2",
+            "rgb(90, 90, 90)"
+          ],
+          [
+            "--bg-page",
+            "var(--peken-charcoal)"
+          ],
+          [
+            "--bg-elevated",
+            "var(--peken-carbon)"
+          ],
+          [
+            "--bg-deep",
+            "var(--peken-ink)"
+          ],
+          [
+            "--bg-inverse",
+            "var(--peken-sage)"
+          ],
+          [
+            "--fg-primary",
+            "var(--peken-white)"
+          ],
+          [
+            "--fg-secondary",
+            "var(--peken-mist)"
+          ],
+          [
+            "--fg-muted",
+            "var(--peken-smoke)"
+          ],
+          [
+            "--fg-on-sage",
+            "var(--peken-ink)"
+          ],
+          [
+            "--fg-accent",
+            "var(--peken-sage)"
+          ],
+          [
+            "--accent",
+            "var(--peken-sage)"
+          ],
+          [
+            "--accent-ink",
+            "var(--peken-ink)"
+          ],
+          [
+            "--gradient-sage-up",
+            "linear-gradient( rgba(195, 202, 150, 0) 0%, rgba(195, 202, 150, .519) 25%, rgba(195, 202, 150, .6621) 36%, rgba(195, 202, 150, .8364) 58%, rgb(195, 202, 150) 94% )"
+          ],
+          [
+            "--gradient-ink-down",
+            "linear-gradient( rgba(13, 13, 13, 0) 0%, rgba(13, 13, 13, .23) 12%, rgba(13, 13, 13, .88) 41%, rgb(13, 13, 13) 64% )"
+          ],
+          [
+            "--font-display",
+            "\"Clash Display\", \"Inter\", system-ui, sans-serif"
+          ],
+          [
+            "--font-body",
+            "\"Montserrat\", system-ui, -apple-system, sans-serif"
+          ],
+          [
+            "--font-italic",
+            "\"Playfair Display\", \"Bespoke Serif\", Georgia, serif"
+          ],
+          [
+            "--fs-12",
+            "12px"
+          ],
+          [
+            "--fs-14",
+            "14px"
+          ],
+          [
+            "--fs-16",
+            "16px"
+          ],
+          [
+            "--fs-20",
+            "20px"
+          ],
+          [
+            "--fs-32",
+            "32px"
+          ],
+          [
+            "--fs-96",
+            "96px"
+          ],
+          [
+            "--lh-tight",
+            "1"
+          ],
+          [
+            "--lh-snug",
+            "1.3"
+          ],
+          [
+            "--lh-normal",
+            "1.5"
+          ],
+          [
+            "--lh-relaxed",
+            "1.7"
+          ],
+          [
+            "--lh-loose",
+            "1.8"
+          ],
+          [
+            "--lh-reading",
+            "1.9"
+          ],
+          [
+            "--ls-normal",
+            "0"
+          ],
+          [
+            "--ls-label",
+            ".02em"
+          ],
+          [
+            "--page-max",
+            "1440px"
+          ],
+          [
+            "--gutter",
+            "120px"
+          ],
+          [
+            "--gutter-sm",
+            "80px"
+          ],
+          [
+            "--col-gap",
+            "24px"
+          ],
+          [
+            "--sp-1",
+            "4px"
+          ],
+          [
+            "--sp-2",
+            "10px"
+          ],
+          [
+            "--sp-3",
+            "20px"
+          ],
+          [
+            "--sp-4",
+            "24px"
+          ],
+          [
+            "--sp-5",
+            "30px"
+          ],
+          [
+            "--sp-6",
+            "40px"
+          ],
+          [
+            "--sp-7",
+            "60px"
+          ],
+          [
+            "--sp-8",
+            "80px"
+          ],
+          [
+            "--r-0",
+            "0px"
+          ],
+          [
+            "--r-sm",
+            "5px"
+          ],
+          [
+            "--ease-out",
+            "cubic-bezier(.22, .61, .36, 1)"
+          ],
+          [
+            "--dur-fast",
+            ".18s"
+          ],
+          [
+            "--dur-base",
+            ".32s"
+          ],
+          [
+            "--dur-slow",
+            ".56s"
+          ],
+          [
+            "--icon-xs",
+            "9px"
+          ],
+          [
+            "--icon-sm",
+            "16px"
+          ],
+          [
+            "--icon-md",
+            "20px"
+          ],
+          [
+            "--icon-lg",
+            "30px"
+          ],
+          [
+            "--icon-xl",
+            "100px"
+          ],
+          [
+            "--page-px",
+            "clamp(20px, 6vw, 120px)"
+          ],
+          [
+            "--section-py",
+            "clamp(56px, 9vw, 100px)"
+          ],
+          [
+            "--pix",
+            "50px"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--peken-sage",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--peken-sage-52",
+            "rgba(195, 202, 150, .519)"
+          ],
+          [
+            "--peken-sage-66",
+            "rgba(195, 202, 150, .6621)"
+          ],
+          [
+            "--peken-sage-84",
+            "rgba(195, 202, 150, .8364)"
+          ],
+          [
+            "--peken-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--peken-ink-90",
+            "rgba(13, 13, 13, .9)"
+          ],
+          [
+            "--peken-ink-23",
+            "rgba(13, 13, 13, .2282)"
+          ],
+          [
+            "--peken-ink-88",
+            "rgba(13, 13, 13, .8806)"
+          ],
+          [
+            "--peken-charcoal",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--peken-carbon",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--peken-coal",
+            "rgb(26, 27, 26)"
+          ],
+          [
+            "--peken-white",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--peken-mist",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--peken-smoke",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--peken-smoke-2",
+            "rgb(90, 90, 90)"
+          ],
+          [
+            "--bg-page",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--bg-elevated",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--bg-deep",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--bg-inverse",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--fg-primary",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--fg-secondary",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--fg-muted",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--fg-on-sage",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--fg-accent",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--accent",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--accent-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--gradient-sage-up",
+            "linear-gradient( rgba(195, 202, 150, 0) 0%, rgba(195, 202, 150, .519) 25%, rgba(195, 202, 150, .6621) 36%, rgba(195, 202, 150, .8364) 58%, rgb(195, 202, 150) 94% )"
+          ],
+          [
+            "--gradient-ink-down",
+            "linear-gradient( rgba(13, 13, 13, 0) 0%, rgba(13, 13, 13, .23) 12%, rgba(13, 13, 13, .88) 41%, rgb(13, 13, 13) 64% )"
+          ],
+          [
+            "--font-display",
+            "\"Clash Display\", \"Inter\", system-ui, sans-serif"
+          ],
+          [
+            "--font-body",
+            "\"Montserrat\", system-ui, -apple-system, sans-serif"
+          ],
+          [
+            "--font-italic",
+            "\"Playfair Display\", \"Bespoke Serif\", Georgia, serif"
+          ],
+          [
+            "--fs-12",
+            "12px"
+          ],
+          [
+            "--fs-14",
+            "14px"
+          ],
+          [
+            "--fs-16",
+            "16px"
+          ],
+          [
+            "--fs-20",
+            "20px"
+          ],
+          [
+            "--fs-32",
+            "32px"
+          ],
+          [
+            "--fs-96",
+            "96px"
+          ],
+          [
+            "--lh-tight",
+            "1"
+          ],
+          [
+            "--lh-snug",
+            "1.3"
+          ],
+          [
+            "--lh-normal",
+            "1.5"
+          ],
+          [
+            "--lh-relaxed",
+            "1.7"
+          ],
+          [
+            "--lh-loose",
+            "1.8"
+          ],
+          [
+            "--lh-reading",
+            "1.9"
+          ],
+          [
+            "--ls-normal",
+            "0"
+          ],
+          [
+            "--ls-label",
+            ".02em"
+          ],
+          [
+            "--page-max",
+            "1440px"
+          ],
+          [
+            "--gutter",
+            "120px"
+          ],
+          [
+            "--gutter-sm",
+            "80px"
+          ],
+          [
+            "--col-gap",
+            "24px"
+          ],
+          [
+            "--sp-1",
+            "4px"
+          ],
+          [
+            "--sp-2",
+            "10px"
+          ],
+          [
+            "--sp-3",
+            "20px"
+          ],
+          [
+            "--sp-4",
+            "24px"
+          ],
+          [
+            "--sp-5",
+            "30px"
+          ],
+          [
+            "--sp-6",
+            "40px"
+          ],
+          [
+            "--sp-7",
+            "60px"
+          ],
+          [
+            "--sp-8",
+            "80px"
+          ],
+          [
+            "--r-0",
+            "0px"
+          ],
+          [
+            "--r-sm",
+            "5px"
+          ],
+          [
+            "--ease-out",
+            "cubic-bezier(.22, .61, .36, 1)"
+          ],
+          [
+            "--dur-fast",
+            ".18s"
+          ],
+          [
+            "--dur-base",
+            ".32s"
+          ],
+          [
+            "--dur-slow",
+            ".56s"
+          ],
+          [
+            "--icon-xs",
+            "9px"
+          ],
+          [
+            "--icon-sm",
+            "16px"
+          ],
+          [
+            "--icon-md",
+            "20px"
+          ],
+          [
+            "--icon-lg",
+            "30px"
+          ],
+          [
+            "--icon-xl",
+            "100px"
+          ],
+          [
+            "--page-px",
+            "clamp(20px, 6vw, 120px)"
+          ],
+          [
+            "--section-py",
+            "clamp(56px, 9vw, 100px)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Login",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Detail Agenda",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Tentang Peken",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(195, 202, 150)",
+              "borderColor": "rgb(195, 202, 150)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(255, 255, 255, 0.45)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(255, 255, 255, 0.45)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Detail Agenda",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Lihat Semua Program",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 01Banyumasan FashionshowPerag",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 02Bring Your Own BowlGerakan ",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 03Local MarketPasar produk ke",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 1
+        },
+        "fonts": [
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Playfair Display",
+          "Playfair Display",
+          "Playfair Display",
+          "Playfair Display",
+          "Clash Display",
+          "Clash Display",
+          "Clash Display",
+          "Clash Display"
+        ],
+        "fontFaces": [
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app2.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app2.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app3.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app3.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app4.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app5.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app5.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app6.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app6.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app7.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app7.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app8.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app8.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app9.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app9.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app10.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app10.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app11.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app11.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app12.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app12.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app13.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app13.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app14.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app14.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./app15.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./app15.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./app16.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./app16.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./app17.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./app17.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "./app18.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 700; font-display: swap; src: url(\"./app18.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:4173/assets/logotype-peken-nav.png",
+            "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "http://127.0.0.1:4173/assets/map-kota-lama.png",
+            "http://127.0.0.1:4173/assets/banner-home-1.jpg",
+            "http://127.0.0.1:4173/assets/banner-home-2.jpg",
+            "http://127.0.0.1:4173/assets/banner-about.png",
+            "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "http://127.0.0.1:4173/assets/program-makers.jpg"
+          ],
+          "fonts": [
+            "http://127.0.0.1:4173/bundle/app10.woff2",
+            "http://127.0.0.1:4173/bundle/app16.woff2",
+            "http://127.0.0.1:4173/bundle/app15.woff2",
+            "http://127.0.0.1:4173/bundle/app14.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:4173/assets/logotype-peken-nav.png",
+            "srcset": "",
+            "alt": "Peken Banyumasan",
+            "width": 3066,
+            "height": 1736
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "srcset": "",
+            "alt": "Banyumasan Fashionshow",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "srcset": "",
+            "alt": "Bring Your Own Bowl",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "srcset": "",
+            "alt": "Local Market",
+            "width": 3984,
+            "height": 2656
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 3984,
+            "height": 2656
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "srcset": "",
+            "alt": "Pitutur Banyumasan",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "srcset": "",
+            "alt": "Coffee & Conversation",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-makers.jpg",
+            "srcset": "",
+            "alt": "Makers Workshop",
+            "width": 2656,
+            "height": 3984
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-makers.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 2656,
+            "height": 3984
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/map-kota-lama.png",
+            "srcset": "",
+            "alt": "Peta kawasan Kota Lama Banyumas",
+            "width": 1600,
+            "height": 1200
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-390.png",
+      "signals": {
+        "href": "http://127.0.0.1:4173/",
+        "title": "Peken Banyumasan",
+        "lang": "id",
+        "bodyTextChars": 2982,
+        "scrollHeight": 7160,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "Temukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem."
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Temukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem."
+          }
+        ],
+        "metaDescription": "Peken Banyumasan — ruang kreatif berbasis budaya lokal di Banyumas. Pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.",
+        "counts": {
+          "links": 12,
+          "images": 18,
+          "video": 0,
+          "canvas": 0,
+          "sections": 8,
+          "forms": 0,
+          "buttons": 11,
+          "inputs": 0,
+          "interactive": 29,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:4173/bundle/app.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:4173/bundle/app.css"
+        ],
+        "sections": [
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "pk-nav",
+            "text": "HOMEABOUTPROGRAMPUBLICATIONGALLERYLogin",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 80
+            },
+            "style": {
+              "display": "grid",
+              "position": "sticky",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "",
+            "className": "",
+            "text": "MIRAPAT · BANYUMASAN · 2026PEKENBANYUMASANTemukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.Detail AgendaTentang PekenPEKENBANYUMASANPeken Banyumasan adalah sebuah ruang kreatif berbasis budaya lokal yang diranc",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 375,
+              "height": 6141
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "MIRAPAT · BANYUMASAN · 2026PEKENBANYUMASANTemukan pertunjukan, karya artisan, dan cerita Banyumasan dalam satu ekosistem.Detail AgendaTentang Peken",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 375,
+              "height": 640
+            },
+            "style": {
+              "display": "flex",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "PEKENBANYUMASANPeken Banyumasan adalah sebuah ruang kreatif berbasis budaya lokal yang dirancang sebagai wadah berkumpulnya masyarakat, pelaku Artisan, seniman, dan komunitas dalam satu ekosistem yang hidup, inklusif, dan berkelanjutan. Pek",
+            "rect": {
+              "x": 0,
+              "y": 720,
+              "width": 375,
+              "height": 1064
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "AGENDATERDEKAT—Agenda berikutnya akan diumumkanPantau terus informasi event Peken Banyumasan berikutnya.Detail Agenda",
+            "rect": {
+              "x": 0,
+              "y": 1784,
+              "width": 375,
+              "height": 577
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "",
+            "text": "ENAM PROGRAM · TIAP EDISISetiap edisi Peken berputar pada enam program tetap.Lihat Semua Program✕PROGRAM · 01Banyumasan FashionshowPeragaan busana bertema kebudayaan Banyumas — tenun, batik, karya desainer lokal.✕PROGRAM · 02Bring Your Own ",
+            "rect": {
+              "x": 0,
+              "y": 2361,
+              "width": 375,
+              "height": 2847
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "lokasi",
+            "className": "",
+            "text": "LOKASIKawasan Kota Lama Banyumas. Taman Sari · Sudagaran.Perjalanan menuju Peken BanyumasanBanyumas, Sudagaran, Kec. Banyumas, Kabupaten Banyumas, Jawa Tengah 53192Rute Peken BanyumasanHalte Trans Banyumas TerdekatTrans Banyumas Koridor 4 ·",
+            "rect": {
+              "x": 0,
+              "y": 5207,
+              "width": 375,
+              "height": 1014
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgb(17, 17, 17)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "",
+            "text": "Ruang budaya dan ekonomi kreatif di Banyumas yang mempertemukan seni, Artisan, dan masyarakat dalam satu ruang kolaborasi yang hidup dan berkelanjutan.#MirapatBanyumasanAlamatBanyumas, Sudagaran, Kec. Banyumas,Kabupaten Banyumas, Jawa Tenga",
+            "rect": {
+              "x": 0,
+              "y": 6221,
+              "width": 375,
+              "height": 939
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "fontSize": "14px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--peken-sage",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--peken-sage-52",
+            "rgba(195, 202, 150, .519)"
+          ],
+          [
+            "--peken-sage-66",
+            "rgba(195, 202, 150, .6621)"
+          ],
+          [
+            "--peken-sage-84",
+            "rgba(195, 202, 150, .8364)"
+          ],
+          [
+            "--peken-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--peken-ink-90",
+            "rgba(13, 13, 13, .9)"
+          ],
+          [
+            "--peken-ink-23",
+            "rgba(13, 13, 13, .2282)"
+          ],
+          [
+            "--peken-ink-88",
+            "rgba(13, 13, 13, .8806)"
+          ],
+          [
+            "--peken-charcoal",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--peken-carbon",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--peken-coal",
+            "rgb(26, 27, 26)"
+          ],
+          [
+            "--peken-white",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--peken-mist",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--peken-smoke",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--peken-smoke-2",
+            "rgb(90, 90, 90)"
+          ],
+          [
+            "--bg-page",
+            "var(--peken-charcoal)"
+          ],
+          [
+            "--bg-elevated",
+            "var(--peken-carbon)"
+          ],
+          [
+            "--bg-deep",
+            "var(--peken-ink)"
+          ],
+          [
+            "--bg-inverse",
+            "var(--peken-sage)"
+          ],
+          [
+            "--fg-primary",
+            "var(--peken-white)"
+          ],
+          [
+            "--fg-secondary",
+            "var(--peken-mist)"
+          ],
+          [
+            "--fg-muted",
+            "var(--peken-smoke)"
+          ],
+          [
+            "--fg-on-sage",
+            "var(--peken-ink)"
+          ],
+          [
+            "--fg-accent",
+            "var(--peken-sage)"
+          ],
+          [
+            "--accent",
+            "var(--peken-sage)"
+          ],
+          [
+            "--accent-ink",
+            "var(--peken-ink)"
+          ],
+          [
+            "--gradient-sage-up",
+            "linear-gradient( rgba(195, 202, 150, 0) 0%, rgba(195, 202, 150, .519) 25%, rgba(195, 202, 150, .6621) 36%, rgba(195, 202, 150, .8364) 58%, rgb(195, 202, 150) 94% )"
+          ],
+          [
+            "--gradient-ink-down",
+            "linear-gradient( rgba(13, 13, 13, 0) 0%, rgba(13, 13, 13, .23) 12%, rgba(13, 13, 13, .88) 41%, rgb(13, 13, 13) 64% )"
+          ],
+          [
+            "--font-display",
+            "\"Clash Display\", \"Inter\", system-ui, sans-serif"
+          ],
+          [
+            "--font-body",
+            "\"Montserrat\", system-ui, -apple-system, sans-serif"
+          ],
+          [
+            "--font-italic",
+            "\"Playfair Display\", \"Bespoke Serif\", Georgia, serif"
+          ],
+          [
+            "--fs-12",
+            "12px"
+          ],
+          [
+            "--fs-14",
+            "14px"
+          ],
+          [
+            "--fs-16",
+            "16px"
+          ],
+          [
+            "--fs-20",
+            "20px"
+          ],
+          [
+            "--fs-32",
+            "32px"
+          ],
+          [
+            "--fs-96",
+            "96px"
+          ],
+          [
+            "--lh-tight",
+            "1"
+          ],
+          [
+            "--lh-snug",
+            "1.3"
+          ],
+          [
+            "--lh-normal",
+            "1.5"
+          ],
+          [
+            "--lh-relaxed",
+            "1.7"
+          ],
+          [
+            "--lh-loose",
+            "1.8"
+          ],
+          [
+            "--lh-reading",
+            "1.9"
+          ],
+          [
+            "--ls-normal",
+            "0"
+          ],
+          [
+            "--ls-label",
+            ".02em"
+          ],
+          [
+            "--page-max",
+            "1440px"
+          ],
+          [
+            "--gutter",
+            "120px"
+          ],
+          [
+            "--gutter-sm",
+            "80px"
+          ],
+          [
+            "--col-gap",
+            "24px"
+          ],
+          [
+            "--sp-1",
+            "4px"
+          ],
+          [
+            "--sp-2",
+            "10px"
+          ],
+          [
+            "--sp-3",
+            "20px"
+          ],
+          [
+            "--sp-4",
+            "24px"
+          ],
+          [
+            "--sp-5",
+            "30px"
+          ],
+          [
+            "--sp-6",
+            "40px"
+          ],
+          [
+            "--sp-7",
+            "60px"
+          ],
+          [
+            "--sp-8",
+            "80px"
+          ],
+          [
+            "--r-0",
+            "0px"
+          ],
+          [
+            "--r-sm",
+            "5px"
+          ],
+          [
+            "--ease-out",
+            "cubic-bezier(.22, .61, .36, 1)"
+          ],
+          [
+            "--dur-fast",
+            ".18s"
+          ],
+          [
+            "--dur-base",
+            ".32s"
+          ],
+          [
+            "--dur-slow",
+            ".56s"
+          ],
+          [
+            "--icon-xs",
+            "9px"
+          ],
+          [
+            "--icon-sm",
+            "16px"
+          ],
+          [
+            "--icon-md",
+            "20px"
+          ],
+          [
+            "--icon-lg",
+            "30px"
+          ],
+          [
+            "--icon-xl",
+            "100px"
+          ],
+          [
+            "--page-px",
+            "clamp(20px, 6vw, 120px)"
+          ],
+          [
+            "--section-py",
+            "clamp(56px, 9vw, 100px)"
+          ],
+          [
+            "--pix",
+            "50px"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--peken-sage",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--peken-sage-52",
+            "rgba(195, 202, 150, .519)"
+          ],
+          [
+            "--peken-sage-66",
+            "rgba(195, 202, 150, .6621)"
+          ],
+          [
+            "--peken-sage-84",
+            "rgba(195, 202, 150, .8364)"
+          ],
+          [
+            "--peken-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--peken-ink-90",
+            "rgba(13, 13, 13, .9)"
+          ],
+          [
+            "--peken-ink-23",
+            "rgba(13, 13, 13, .2282)"
+          ],
+          [
+            "--peken-ink-88",
+            "rgba(13, 13, 13, .8806)"
+          ],
+          [
+            "--peken-charcoal",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--peken-carbon",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--peken-coal",
+            "rgb(26, 27, 26)"
+          ],
+          [
+            "--peken-white",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--peken-mist",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--peken-smoke",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--peken-smoke-2",
+            "rgb(90, 90, 90)"
+          ],
+          [
+            "--bg-page",
+            "rgb(27, 27, 27)"
+          ],
+          [
+            "--bg-elevated",
+            "rgb(17, 17, 17)"
+          ],
+          [
+            "--bg-deep",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--bg-inverse",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--fg-primary",
+            "rgb(255, 255, 255)"
+          ],
+          [
+            "--fg-secondary",
+            "rgb(178, 178, 178)"
+          ],
+          [
+            "--fg-muted",
+            "rgb(91, 91, 91)"
+          ],
+          [
+            "--fg-on-sage",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--fg-accent",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--accent",
+            "rgb(195, 202, 150)"
+          ],
+          [
+            "--accent-ink",
+            "rgb(13, 13, 13)"
+          ],
+          [
+            "--gradient-sage-up",
+            "linear-gradient( rgba(195, 202, 150, 0) 0%, rgba(195, 202, 150, .519) 25%, rgba(195, 202, 150, .6621) 36%, rgba(195, 202, 150, .8364) 58%, rgb(195, 202, 150) 94% )"
+          ],
+          [
+            "--gradient-ink-down",
+            "linear-gradient( rgba(13, 13, 13, 0) 0%, rgba(13, 13, 13, .23) 12%, rgba(13, 13, 13, .88) 41%, rgb(13, 13, 13) 64% )"
+          ],
+          [
+            "--font-display",
+            "\"Clash Display\", \"Inter\", system-ui, sans-serif"
+          ],
+          [
+            "--font-body",
+            "\"Montserrat\", system-ui, -apple-system, sans-serif"
+          ],
+          [
+            "--font-italic",
+            "\"Playfair Display\", \"Bespoke Serif\", Georgia, serif"
+          ],
+          [
+            "--fs-12",
+            "12px"
+          ],
+          [
+            "--fs-14",
+            "14px"
+          ],
+          [
+            "--fs-16",
+            "16px"
+          ],
+          [
+            "--fs-20",
+            "20px"
+          ],
+          [
+            "--fs-32",
+            "32px"
+          ],
+          [
+            "--fs-96",
+            "96px"
+          ],
+          [
+            "--lh-tight",
+            "1"
+          ],
+          [
+            "--lh-snug",
+            "1.3"
+          ],
+          [
+            "--lh-normal",
+            "1.5"
+          ],
+          [
+            "--lh-relaxed",
+            "1.7"
+          ],
+          [
+            "--lh-loose",
+            "1.8"
+          ],
+          [
+            "--lh-reading",
+            "1.9"
+          ],
+          [
+            "--ls-normal",
+            "0"
+          ],
+          [
+            "--ls-label",
+            ".02em"
+          ],
+          [
+            "--page-max",
+            "1440px"
+          ],
+          [
+            "--gutter",
+            "120px"
+          ],
+          [
+            "--gutter-sm",
+            "80px"
+          ],
+          [
+            "--col-gap",
+            "24px"
+          ],
+          [
+            "--sp-1",
+            "4px"
+          ],
+          [
+            "--sp-2",
+            "10px"
+          ],
+          [
+            "--sp-3",
+            "20px"
+          ],
+          [
+            "--sp-4",
+            "24px"
+          ],
+          [
+            "--sp-5",
+            "30px"
+          ],
+          [
+            "--sp-6",
+            "40px"
+          ],
+          [
+            "--sp-7",
+            "60px"
+          ],
+          [
+            "--sp-8",
+            "80px"
+          ],
+          [
+            "--r-0",
+            "0px"
+          ],
+          [
+            "--r-sm",
+            "5px"
+          ],
+          [
+            "--ease-out",
+            "cubic-bezier(.22, .61, .36, 1)"
+          ],
+          [
+            "--dur-fast",
+            ".18s"
+          ],
+          [
+            "--dur-base",
+            ".32s"
+          ],
+          [
+            "--dur-slow",
+            ".56s"
+          ],
+          [
+            "--icon-xs",
+            "9px"
+          ],
+          [
+            "--icon-sm",
+            "16px"
+          ],
+          [
+            "--icon-md",
+            "20px"
+          ],
+          [
+            "--icon-lg",
+            "30px"
+          ],
+          [
+            "--icon-xl",
+            "100px"
+          ],
+          [
+            "--page-px",
+            "clamp(20px, 6vw, 120px)"
+          ],
+          [
+            "--section-py",
+            "clamp(56px, 9vw, 100px)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgb(27, 27, 27)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Login",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Detail Agenda",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Tentang Peken",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(195, 202, 150)",
+              "borderColor": "rgb(195, 202, 150)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(255, 255, 255, 0.45)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(255, 255, 255, 0.45)",
+              "color": "rgb(0, 0, 0)",
+              "borderColor": "rgb(0, 0, 0)",
+              "fontFamily": "Arial",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Detail Agenda",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Lihat Semua Program",
+              "backgroundColor": "rgb(195, 202, 150)",
+              "color": "rgb(13, 13, 13)",
+              "borderColor": "rgb(13, 13, 13)",
+              "fontFamily": "\"Clash Display\", Inter, system-ui, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 01Banyumasan FashionshowPerag",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 02Bring Your Own BowlGerakan ",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "✕PROGRAM · 03Local MarketPasar produk ke",
+              "backgroundColor": "rgb(13, 13, 13)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Montserrat, system-ui, -apple-system, sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 1
+        },
+        "fonts": [
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Montserrat",
+          "Playfair Display",
+          "Playfair Display",
+          "Playfair Display",
+          "Playfair Display",
+          "Clash Display",
+          "Clash Display",
+          "Clash Display",
+          "Clash Display"
+        ],
+        "fontFaces": [
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app2.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app2.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app3.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app3.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app4.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "italic",
+            "srcUrls": [
+              "./app5.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: italic; font-weight: 100 900; font-display: swap; src: url(\"./app5.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app6.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app6.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app7.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app7.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app8.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app8.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app9.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app9.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Montserrat",
+            "weight": "100 900",
+            "style": "normal",
+            "srcUrls": [
+              "./app10.woff2"
+            ],
+            "cssText": "@font-face { font-family: Montserrat; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"./app10.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app11.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app11.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app12.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app12.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app13.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app13.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Playfair Display",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./app14.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Playfair Display\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./app14.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./app15.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./app15.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./app16.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./app16.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./app17.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./app17.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          },
+          {
+            "family": "Clash Display",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "./app18.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Clash Display\"; font-style: normal; font-weight: 700; font-display: swap; src: url(\"./app18.woff2\") format(\"woff2\"); }",
+            "sheetHref": "http://127.0.0.1:4173/bundle/app.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:4173/assets/logotype-peken-nav.png",
+            "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "http://127.0.0.1:4173/assets/map-kota-lama.png",
+            "http://127.0.0.1:4173/assets/banner-home-1.jpg",
+            "http://127.0.0.1:4173/assets/banner-home-2.jpg",
+            "http://127.0.0.1:4173/assets/banner-about.png",
+            "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "http://127.0.0.1:4173/assets/program-makers.jpg"
+          ],
+          "fonts": [
+            "http://127.0.0.1:4173/bundle/app10.woff2",
+            "http://127.0.0.1:4173/bundle/app16.woff2",
+            "http://127.0.0.1:4173/bundle/app15.woff2",
+            "http://127.0.0.1:4173/bundle/app14.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:4173/assets/logotype-peken-nav.png",
+            "srcset": "",
+            "alt": "Peken Banyumasan",
+            "width": 3066,
+            "height": 1736
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "srcset": "",
+            "alt": "Banyumasan Fashionshow",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-fashion.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "srcset": "",
+            "alt": "Bring Your Own Bowl",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-byob.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "srcset": "",
+            "alt": "Local Market",
+            "width": 3984,
+            "height": 2656
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-local-market.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 3984,
+            "height": 2656
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "srcset": "",
+            "alt": "Pitutur Banyumasan",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-pitutur.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "srcset": "",
+            "alt": "Coffee & Conversation",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-coffee.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 4096,
+            "height": 2305
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-makers.jpg",
+            "srcset": "",
+            "alt": "Makers Workshop",
+            "width": 2656,
+            "height": 3984
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/program-makers.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 2656,
+            "height": 3984
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/map-kota-lama.png",
+            "srcset": "",
+            "alt": "Peta kawasan Kota Lama Banyumas",
+            "width": 1600,
+            "height": 1200
+          },
+          {
+            "src": "http://127.0.0.1:4173/assets/logo-peken-banyumasan.png",
+            "srcset": "",
+            "alt": "",
+            "width": 3364,
+            "height": 3365
+          }
+        ],
+        "canvases": []
+      }
+    }
+  ]
+}
