@@ -74,6 +74,12 @@ npm run serve      # http://127.0.0.1:4173/
 
 `vite.config.js` sets `root: "src"`, `base: "./"` and `publicDir: false`, so the emitted bundle uses relative URLs and works from both `http://` and `file://`. Output goes to `dist/` and `postbuild.mjs` mirrors it to the project root, flipping the entry script to a classic (non-module) one because an ES module cannot load over `file://`.
 
+`postbuild.mjs` also keeps `dist/` as a self-contained, deployable folder: it hard-links the repo-root `assets/` and `favicon.png` (which the emitted HTML references relatively) into `dist/`, so `dist/` can be served on its own.
+
+### Deploy (Vercel)
+
+`vercel.json` pins the framework to **Other** with `outputDirectory: "dist"`, so Vercel builds with `npm run build` and serves the self-contained `dist/`. (Without it, the Vite preset defaults to `dist` but `postbuild.mjs` used to delete it — hence *No Output Directory named "dist" found*.)
+
 ## Fonts
 
 The origin loads two stylesheets:

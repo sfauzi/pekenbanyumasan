@@ -7,12 +7,15 @@
  *     Vite always emits `type="module"`; an ES module cannot load over
  *     `file://`, while a classic script works from a file path and over http.
  *
- *  2. Mirrors `index.html`, `bundle/` and `favicon.png` to the project root so
- *     the OpenDesign preview can open the root `index.html` directly, then
- *     removes `dist/`.
+ *  2. Mirrors `index.html` and `bundle/` to the project root so the OpenDesign
+ *     preview can open the root `index.html` directly (and so the `file://`
+ *     entry keeps working).
  *
- *  `assets/` is left alone: it is the public dir and already sits at the root,
- *  which is exactly where the emitted `./assets/<file>` references resolve.
+ *  3. Makes `dist/` self-contained so it can be deployed as-is. The emitted
+ *     HTML references `./assets/<file>` and `./favicon.png`, which live at the
+ *     repo root, so they are hard-linked (falling back to a copy) into `dist/`.
+ *     `dist/` is intentionally kept: Vercel's Vite preset serves it as the
+ *     output directory (see `vercel.json`).
  *
  * Wired into `npm run build`.
  */
@@ -68,6 +71,31 @@ if (fs.existsSync(bundleFrom)) {
   copyDir(bundleFrom, bundleTo);
 }
 
-fs.rmSync(DIST, { recursive: true, force: true });
+/* ── 3. make dist/ self-contained (kept as the deployable output) ────────── */
+// The ~100 MB of photographs are served straight from the repo-root `assets/`,
+// so hard-link them (falling back to a copy) instead of duplicating the bytes.
+function linkOrCopy(from, to) {
+  try {
+    fs.linkSync(from, to);
+  } catch {
+    fs.copyFileSync(from, to);
+  }
+}
 
-console.log("postbuild: index.html + bundle/ mirrored to the project root");
+function linkTree(from, to) {
+  fs.mkdirSync(to, { recursive: true });
+  for (const entry of fs.readdirSync(from, { withFileTypes: true })) {
+    const src = path.join(from, entry.name);
+    const dest = path.join(to, entry.name);
+    if (entry.isDirectory()) linkTree(src, dest);
+    else linkOrCopy(src, dest);
+  }
+}
+
+const assetsFrom = path.join(ROOT, "assets");
+if (fs.existsSync(assetsFrom)) linkTree(assetsFrom, path.join(DIST, "assets"));
+
+const faviconFrom = path.join(ROOT, "favicon.png");
+if (fs.existsSync(faviconFrom)) linkOrCopy(faviconFrom, path.join(DIST, "favicon.png"));
+
+console.log("postbuild: dist/ ready; index.html + bundle/ mirrored to the project root");
